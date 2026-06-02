@@ -5,8 +5,10 @@
     <link>https://samsaam26.github.io/mdr-feed/mdr_feed.xml</link>
     <description>End-of-day MDR scan signals (G20/G30/G50/G100/GC30/PDR/CR)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 20:46:50 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 20:52:24 -0000</lastBuildDate>
     <item>
+      
+      
       
       
       
@@ -24,6 +26,8 @@
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/VSH</link>
       
       
@@ -33,7 +37,11 @@
       
       
       
+      
+      
       <guid isPermaLink="false">VSH_2026-06-02</guid>
+      
+      
       
       
       
@@ -59,11 +67,15 @@ CR     : 0.7</description>
       
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 22:00:00 -0000</pubDate>
       
       
       
       
+      
+    
     
     
     
@@ -77,7 +89,11 @@ CR     : 0.7</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -99,6 +115,8 @@ CR     : 0.7</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MRVL</link>
       
       
@@ -110,7 +128,11 @@ CR     : 0.7</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MRVL_2026-06-02</guid>
+      
+      
       
       
       
@@ -140,12 +162,16 @@ CR     : 0.94</description>
       
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 20:00:00 -0000</pubDate>
       
       
       
       
       
+      
+    
     
     
     
@@ -157,6 +183,8 @@ CR     : 0.94</description>
     
     
     
+    
+  
   
   
   
