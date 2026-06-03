@@ -5,22 +5,7 @@
     <link>https://samsaam26.github.io/mdr-feed/mdr_feed.xml</link>
     <description>End-of-day MDR scan signals (G20/G30/G50/G100/GC30/PDR/CR)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 20:16:13 -0000</lastBuildDate>
-    <item>
-      <title>VSH | MDR Signal | 2026-06-03</title>
-      <link>https://finance.yahoo.com/quote/VSH</link>
-      <guid isPermaLink="false">VSH_2026-06-03</guid>
-      <description>Ticker : VSH
-Date   : 2026-06-03
-G20    : 64.99
-G30    : 65.50
-G50    : 66.51
-G100   : 69.05
-GC30   : 64.60
-PDR    : 5.08
-CR     : 0.50</description>
-      <pubDate>Tue, 02 Jun 2026 22:00:00 -0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 21:15:59 -0000</lastBuildDate>
     <item>
       <title>ANY | MDR Signal | 2026-06-03</title>
       <link>https://finance.yahoo.com/quote/ANY</link>
@@ -37,15 +22,38 @@ CR     : 0.77</description>
       <pubDate>Tue, 02 Jun 2026 22:00:00 -0000</pubDate>
     </item>
     <item>
+      <title>VSH | MDR Signal | 2026-06-03</title>
+      <link>https://finance.yahoo.com/quote/VSH</link>
+      <guid isPermaLink="false">VSH_2026-06-03</guid>
+      <description>Ticker : VSH
+Date   : 2026-06-03
+G20    : 64.99
+G30    : 65.50
+G50    : 66.51
+G100   : 69.05
+GC30   : 64.60
+PDR    : 5.08
+CR     : 0.50</description>
+      <pubDate>Tue, 02 Jun 2026 22:00:00 -0000</pubDate>
+    </item>
+    <item>
+      
+      
       
       
       <title>MRVL | MDR Signal | 2026-06-02</title>
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MRVL</link>
       
       
+      
+      
       <guid isPermaLink="false">MRVL_2026-06-02</guid>
+      
+      
       
       
       <description>Ticker : MRVL
@@ -59,22 +67,36 @@ PDR    : 38.87
 CR     : 0.99</description>
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 22:00:00 -0000</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>VSH | MDR Signal | 2026-06-02</title>
+      
+      
       
       
       <link>https://finance.yahoo.com/quote/VSH</link>
       
       
+      
+      
       <guid isPermaLink="false">VSH_2026-06-02</guid>
+      
+      
       
       
       <description>Ticker : VSH
@@ -88,11 +110,17 @@ PDR    : 6.69
 CR     : 0.70</description>
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 22:00:00 -0000</pubDate>
       
+      
+    
     
     </item>
     
+    
+  
   
   </channel>
 </rss>
