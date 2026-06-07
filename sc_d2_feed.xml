@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SC D2 Scan — AlphaPoint Investments</title>
+    <link>https://samsaam26.github.io/mdr-feed/sc_d2_feed.xml</link>
+    <description>End-of-day SC D2 scan signals</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jun 2026 11:37:38 -0000</lastBuildDate>
+    <item>
+      <title>SCAG | Big D2 | 2026-06-05</title>
+      <link>https://finance.yahoo.com/quote/SCAG</link>
+      <guid isPermaLink="false">SCAG_Big D2_2026-06-05</guid>
+      <description>Ticker  : SCAG
+Date    : 2026-06-05
+Setup   : Big D2
+Min Gap : 1.09
+PDR     : 0.81</description>
+      <pubDate>Thu, 04 Jun 2026 20:00:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>SPHL | Big D2+ | 2026-06-05</title>
+      <link>https://finance.yahoo.com/quote/SPHL</link>
+      <guid isPermaLink="false">SPHL_Big D2+_2026-06-05</guid>
+      <description>Ticker  : SPHL
+Date    : 2026-06-05
+Setup   : Big D2+
+Min Gap : 9.51
+PDR     : 8.32</description>
+      <pubDate>Thu, 04 Jun 2026 20:00:00 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
