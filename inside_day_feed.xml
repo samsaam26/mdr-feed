@@ -5,28 +5,67 @@
     <link>https://samsaam26.github.io/mdr-feed/inside_day_feed.xml</link>
     <description>End-of-day Inside Day scan signals</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2026 12:00:54 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 20:16:21 -0000</lastBuildDate>
     <item>
+      <title>SUNE | High Vol | 2026-06-09</title>
+      <link>https://finance.yahoo.com/quote/SUNE</link>
+      <guid isPermaLink="false">SUNE_2026-06-09</guid>
+      <description>Ticker  : SUNE
+Date    : 2026-06-09
+Setup   : High Vol
+Min Gap : 2.85
+Max Gap : 9.45</description>
+      <pubDate>Mon, 08 Jun 2026 22:00:00 -0000</pubDate>
+    </item>
+    <item>
+      
+      
       <title>ANY | Low Vol | 2026-06-02</title>
+      
+      
       <link>https://finance.yahoo.com/quote/ANY</link>
+      
+      
       <guid isPermaLink="false">ANY_2026-06-02</guid>
+      
+      
       <description>Ticker  : ANY
 Date    : 2026-06-02
 Setup   : Low Vol
 Min Gap : 3.91
 Max Gap : 4.83</description>
+      
+      
       <pubDate>Mon, 01 Jun 2026 20:00:00 -0000</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>XOS | Low Vol | 2026-06-04</title>
+      
+      
       <link>https://finance.yahoo.com/quote/XOS</link>
+      
+      
       <guid isPermaLink="false">XOS_2026-06-04</guid>
+      
+      
       <description>Ticker  : XOS
 Date    : 2026-06-04
 Setup   : Low Vol
 Min Gap : 5.28
 Max Gap : 8.27</description>
+      
+      
       <pubDate>Wed, 03 Jun 2026 20:00:00 -0000</pubDate>
+      
+    
     </item>
+    
+  
   </channel>
 </rss>
