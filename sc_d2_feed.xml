@@ -5,7 +5,7 @@
     <link>https://samsaam26.github.io/mdr-feed/sc_d2_feed.xml</link>
     <description>End-of-day SC D2 scan signals</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 22:56:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 00:16:15 -0000</lastBuildDate>
     <item>
       <title>SUNE | Big D2+ | 2026-06-08</title>
       <link>https://finance.yahoo.com/quote/SUNE</link>
@@ -15,7 +15,7 @@ Date    : 2026-06-08
 Setup   : Big D2+
 Min Gap : 9.52
 PDR     : 7.27</description>
-      <pubDate>Sun, 07 Jun 2026 20:00:00 -0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
     </item>
     <item>
       <title>SMTK | D2 EG | 2026-06-08</title>
@@ -26,7 +26,7 @@ Date    : 2026-06-08
 Setup   : D2 EG
 Min Gap : 1.51
 PDR     : 0.67</description>
-      <pubDate>Sun, 07 Jun 2026 20:00:00 -0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
     </item>
     <item>
       <title>SMTK | D3+ | 2026-06-08</title>
@@ -37,7 +37,7 @@ Date    : 2026-06-08
 Setup   : D3+
 Min Gap : 1.04
 PDR     : 0.67</description>
-      <pubDate>Sun, 07 Jun 2026 20:00:00 -0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
     </item>
     <item>
       <title>INHD | Big D2 | 2026-06-08</title>
@@ -48,7 +48,7 @@ Date    : 2026-06-08
 Setup   : Big D2
 Min Gap : 52.17
 PDR     : 42.26</description>
-      <pubDate>Sun, 07 Jun 2026 20:00:00 -0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
     </item>
     <item>
       <title>INHD | Big D2+ | 2026-06-08</title>
@@ -59,7 +59,7 @@ Date    : 2026-06-08
 Setup   : Big D2+
 Min Gap : 60.62
 PDR     : 42.26</description>
-      <pubDate>Sun, 07 Jun 2026 20:00:00 -0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
     </item>
     <item>
       <title>GRAN | D2 EG | 2026-06-08</title>
@@ -70,7 +70,7 @@ Date    : 2026-06-08
 Setup   : D2 EG
 Min Gap : 2.66
 PDR     : 1.23</description>
-      <pubDate>Sun, 07 Jun 2026 20:00:00 -0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
     </item>
     <item>
       <title>NPT | Big D2+ | 2026-06-08</title>
@@ -81,18 +81,26 @@ Date    : 2026-06-08
 Setup   : Big D2+
 Min Gap : 10.42
 PDR     : 10.93</description>
-      <pubDate>Sun, 07 Jun 2026 20:00:00 -0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
     </item>
     <item>
+      
+      
       
       
       <title>SCAG | Big D2 | 2026-06-05</title>
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SCAG</link>
       
       
+      
+      
       <guid isPermaLink="false">SCAG_Big D2_2026-06-05</guid>
+      
+      
       
       
       <description>Ticker  : SCAG
@@ -102,22 +110,36 @@ Min Gap : 1.09
 PDR     : 0.81</description>
       
       
+      
+      
       <pubDate>Thu, 04 Jun 2026 20:00:00 -0000</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>SPHL | Big D2+ | 2026-06-05</title>
+      
+      
       
       
       <link>https://finance.yahoo.com/quote/SPHL</link>
       
       
+      
+      
       <guid isPermaLink="false">SPHL_Big D2+_2026-06-05</guid>
+      
+      
       
       
       <description>Ticker  : SPHL
@@ -127,11 +149,17 @@ Min Gap : 9.51
 PDR     : 8.32</description>
       
       
+      
+      
       <pubDate>Thu, 04 Jun 2026 20:00:00 -0000</pubDate>
       
+      
+    
     
     </item>
     
+    
+  
   
   </channel>
 </rss>
