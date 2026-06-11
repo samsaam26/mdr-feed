@@ -5,11 +5,34 @@
     <link>https://samsaam26.github.io/mdr-feed/mdr_feed.xml</link>
     <description>End-of-day MDR scan signals (G20/G30/G50/G100/GC30/PDR/CR)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:16:04 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:16:45 -0000</lastBuildDate>
     <item>
+      <title>AMPG | MDR Signal | 2026-06-11</title>
+      <link>https://finance.yahoo.com/quote/AMPG</link>
+      <guid isPermaLink="false">AMPG_2026-06-11</guid>
+      <description>Ticker : AMPG
+Date   : 2026-06-11
+G20    : 8.96
+G30    : 9.11
+G50    : 9.40
+G100   : 10.12
+GC30   : 8.85
+PDR    : 1.45
+CR     : 0.55</description>
+      <pubDate>Wed, 10 Jun 2026 22:00:00 -0000</pubDate>
+    </item>
+    <item>
+      
+      
       <title>ANY | MDR Signal | 2026-06-03</title>
+      
+      
       <link>https://finance.yahoo.com/quote/ANY</link>
+      
+      
       <guid isPermaLink="false">ANY_2026-06-03</guid>
+      
+      
       <description>Ticker : ANY
 Date   : 2026-06-03
 G20    : 6.18
@@ -19,12 +42,26 @@ G100   : 8.27
 GC30   : 5.82
 PDR    : 2.61
 CR     : 0.77</description>
+      
+      
       <pubDate>Tue, 02 Jun 2026 22:00:00 -0000</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>VSH | MDR Signal | 2026-06-03</title>
+      
+      
       <link>https://finance.yahoo.com/quote/VSH</link>
+      
+      
       <guid isPermaLink="false">VSH_2026-06-03</guid>
+      
+      
       <description>Ticker : VSH
 Date   : 2026-06-03
 G20    : 64.99
@@ -34,9 +71,17 @@ G100   : 69.05
 GC30   : 64.60
 PDR    : 5.08
 CR     : 0.50</description>
+      
+      
       <pubDate>Tue, 02 Jun 2026 22:00:00 -0000</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       
       
       
@@ -50,6 +95,8 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MRVL</link>
       
       
@@ -57,7 +104,11 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MRVL_2026-06-02</guid>
+      
+      
       
       
       
@@ -79,14 +130,20 @@ CR     : 0.99</description>
       
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 22:00:00 -0000</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -100,7 +157,11 @@ CR     : 0.99</description>
       
       
       
+      
+      
       <title>VSH | MDR Signal | 2026-06-02</title>
+      
+      
       
       
       
@@ -114,7 +175,11 @@ CR     : 0.99</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VSH_2026-06-02</guid>
+      
+      
       
       
       
@@ -136,10 +201,14 @@ CR     : 0.70</description>
       
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 22:00:00 -0000</pubDate>
       
       
       
+      
+    
     
     
     
@@ -147,6 +216,8 @@ CR     : 0.70</description>
     
     
     
+    
+  
   
   
   
