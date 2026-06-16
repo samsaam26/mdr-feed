@@ -5,7 +5,7 @@
     <link>https://samsaam26.github.io/mdr-feed/sc_d2_feed.xml</link>
     <description>End-of-day SC D2 scan signals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 20:16:41 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:16:08 -0000</lastBuildDate>
     <item>
       <title>OBAI | D2 | 2026-06-16</title>
       <link>https://finance.yahoo.com/quote/OBAI</link>
@@ -20,13 +20,21 @@ PDR     : 0.52</description>
     <item>
       
       
+      
+      
       <title>RGNT | Big D2 | 2026-06-15</title>
+      
+      
       
       
       <link>https://finance.yahoo.com/quote/RGNT</link>
       
       
+      
+      
       <guid isPermaLink="false">RGNT_Big D2_2026-06-15</guid>
+      
+      
       
       
       <description>Ticker  : RGNT
@@ -36,22 +44,36 @@ Min Gap : 13.55
 PDR     : 13.82</description>
       
       
+      
+      
       <pubDate>Sun, 14 Jun 2026 22:00:00 -0000</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>RGNT | Big D2+ | 2026-06-15</title>
+      
+      
       
       
       <link>https://finance.yahoo.com/quote/RGNT</link>
       
       
+      
+      
       <guid isPermaLink="false">RGNT_Big D2+_2026-06-15</guid>
+      
+      
       
       
       <description>Ticker  : RGNT
@@ -61,22 +83,36 @@ Min Gap : 16.31
 PDR     : 13.82</description>
       
       
+      
+      
       <pubDate>Sun, 14 Jun 2026 22:00:00 -0000</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>PRFX | D2 EG | 2026-06-15</title>
+      
+      
       
       
       <link>https://finance.yahoo.com/quote/PRFX</link>
       
       
+      
+      
       <guid isPermaLink="false">PRFX_D2 EG_2026-06-15</guid>
+      
+      
       
       
       <description>Ticker  : PRFX
@@ -86,13 +122,21 @@ Min Gap : 5.07
 PDR     : 2.58</description>
       
       
+      
+      
       <pubDate>Sun, 14 Jun 2026 22:00:00 -0000</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -110,6 +154,8 @@ PDR     : 2.58</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/CAST</link>
       
       
@@ -119,7 +165,11 @@ PDR     : 2.58</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CAST_D3+_2026-06-12</guid>
+      
+      
       
       
       
@@ -141,16 +191,22 @@ PDR     : 1.42</description>
       
       
       
+      
+      
       <pubDate>Thu, 11 Jun 2026 22:00:00 -0000</pubDate>
       
       
       
       
+      
+    
     
     
     
     
     </item>
+    
+    
     
     
     
@@ -168,7 +224,11 @@ PDR     : 1.42</description>
       
       
       
+      
+      
       <title>UBXG | D2 EG | 2026-06-12</title>
+      
+      
       
       
       
@@ -186,7 +246,11 @@ PDR     : 1.42</description>
       
       
       
+      
+      
       <guid isPermaLink="false">UBXG_D2 EG_2026-06-12</guid>
+      
+      
       
       
       
@@ -208,11 +272,15 @@ PDR     : 4.77</description>
       
       
       
+      
+      
       <pubDate>Thu, 11 Jun 2026 22:00:00 -0000</pubDate>
       
       
       
       
+      
+    
     
     
     
@@ -226,7 +294,11 @@ PDR     : 4.77</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -256,6 +328,8 @@ PDR     : 4.77</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/GELS</link>
       
       
@@ -271,7 +345,11 @@ PDR     : 4.77</description>
       
       
       
+      
+      
       <guid isPermaLink="false">GELS_Big D2_2026-06-11</guid>
+      
+      
       
       
       
@@ -305,6 +383,8 @@ PDR     : 1.51</description>
       
       
       
+      
+      
       <pubDate>Wed, 10 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -313,6 +393,8 @@ PDR     : 1.51</description>
       
       
       
+      
+    
     
     
     
@@ -335,7 +417,11 @@ PDR     : 1.51</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -377,6 +463,8 @@ PDR     : 1.51</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/HXHX</link>
       
       
@@ -398,7 +486,11 @@ PDR     : 1.51</description>
       
       
       
+      
+      
       <guid isPermaLink="false">HXHX_D3+_2026-06-10</guid>
+      
+      
       
       
       
@@ -444,6 +536,8 @@ PDR     : 0.47</description>
       
       
       
+      
+      
       <pubDate>Tue, 09 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -455,6 +549,8 @@ PDR     : 0.47</description>
       
       
       
+      
+    
     
     
     
@@ -466,6 +562,8 @@ PDR     : 0.47</description>
     
     
     </item>
+    
+    
     
     
     
@@ -507,7 +605,11 @@ PDR     : 0.47</description>
       
       
       
+      
+      
       <title>CPOP | Big D2+ | 2026-06-10</title>
+      
+      
       
       
       
@@ -549,7 +651,11 @@ PDR     : 0.47</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CPOP_Big D2+_2026-06-10</guid>
+      
+      
       
       
       
@@ -595,6 +701,8 @@ PDR     : 2.14</description>
       
       
       
+      
+      
       <pubDate>Tue, 09 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -606,6 +714,8 @@ PDR     : 2.14</description>
       
       
       
+      
+    
     
     
     
@@ -617,6 +727,8 @@ PDR     : 2.14</description>
     
     
     </item>
+    
+    
     
     
     
@@ -658,7 +770,11 @@ PDR     : 2.14</description>
       
       
       
+      
+      
       <title>CPOP | D3+ | 2026-06-10</title>
+      
+      
       
       
       
@@ -700,7 +816,11 @@ PDR     : 2.14</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CPOP_D3+_2026-06-10</guid>
+      
+      
       
       
       
@@ -746,6 +866,8 @@ PDR     : 2.14</description>
       
       
       
+      
+      
       <pubDate>Tue, 09 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -757,6 +879,8 @@ PDR     : 2.14</description>
       
       
       
+      
+    
     
     
     
@@ -768,6 +892,8 @@ PDR     : 2.14</description>
     
     
     </item>
+    
+    
     
     
     
@@ -809,7 +935,11 @@ PDR     : 2.14</description>
       
       
       
+      
+      
       <title>BATL | D2 EG | 2026-06-10</title>
+      
+      
       
       
       
@@ -851,7 +981,11 @@ PDR     : 2.14</description>
       
       
       
+      
+      
       <guid isPermaLink="false">BATL_D2 EG_2026-06-10</guid>
+      
+      
       
       
       
@@ -897,6 +1031,8 @@ PDR     : 1.61</description>
       
       
       
+      
+      
       <pubDate>Tue, 09 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -908,6 +1044,8 @@ PDR     : 1.61</description>
       
       
       
+      
+    
     
     
     
@@ -919,6 +1057,8 @@ PDR     : 1.61</description>
     
     
     </item>
+    
+    
     
     
     
@@ -960,7 +1100,11 @@ PDR     : 1.61</description>
       
       
       
+      
+      
       <title>IZM | D2 | 2026-06-10</title>
+      
+      
       
       
       
@@ -1002,7 +1146,11 @@ PDR     : 1.61</description>
       
       
       
+      
+      
       <guid isPermaLink="false">IZM_D2_2026-06-10</guid>
+      
+      
       
       
       
@@ -1048,6 +1196,8 @@ PDR     : 0.50</description>
       
       
       
+      
+      
       <pubDate>Tue, 09 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -1059,6 +1209,8 @@ PDR     : 0.50</description>
       
       
       
+      
+    
     
     
     
@@ -1090,7 +1242,11 @@ PDR     : 0.50</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1144,6 +1300,8 @@ PDR     : 0.50</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/YOUL</link>
       
       
@@ -1171,7 +1329,11 @@ PDR     : 0.50</description>
       
       
       
+      
+      
       <guid isPermaLink="false">YOUL_Big D2_2026-06-09</guid>
+      
+      
       
       
       
@@ -1229,6 +1391,8 @@ PDR     : 0.93</description>
       
       
       
+      
+      
       <pubDate>Mon, 08 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -1243,6 +1407,8 @@ PDR     : 0.93</description>
       
       
       
+      
+    
     
     
     
@@ -1283,7 +1449,11 @@ PDR     : 0.93</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1349,6 +1519,8 @@ PDR     : 0.93</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SUNE</link>
       
       
@@ -1382,7 +1554,11 @@ PDR     : 0.93</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SUNE_Big D2+_2026-06-08</guid>
+      
+      
       
       
       
@@ -1452,6 +1628,8 @@ PDR     : 7.27</description>
       
       
       
+      
+      
       <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -1469,6 +1647,8 @@ PDR     : 7.27</description>
       
       
       
+      
+    
     
     
     
@@ -1486,6 +1666,8 @@ PDR     : 7.27</description>
     
     
     </item>
+    
+    
     
     
     
@@ -1551,7 +1733,11 @@ PDR     : 7.27</description>
       
       
       
+      
+      
       <title>SMTK | D2 EG | 2026-06-08</title>
+      
+      
       
       
       
@@ -1617,7 +1803,11 @@ PDR     : 7.27</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SMTK_D2 EG_2026-06-08</guid>
+      
+      
       
       
       
@@ -1687,6 +1877,8 @@ PDR     : 0.67</description>
       
       
       
+      
+      
       <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -1704,6 +1896,8 @@ PDR     : 0.67</description>
       
       
       
+      
+    
     
     
     
@@ -1721,6 +1915,8 @@ PDR     : 0.67</description>
     
     
     </item>
+    
+    
     
     
     
@@ -1786,7 +1982,11 @@ PDR     : 0.67</description>
       
       
       
+      
+      
       <title>SMTK | D3+ | 2026-06-08</title>
+      
+      
       
       
       
@@ -1852,7 +2052,11 @@ PDR     : 0.67</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SMTK_D3+_2026-06-08</guid>
+      
+      
       
       
       
@@ -1922,6 +2126,8 @@ PDR     : 0.67</description>
       
       
       
+      
+      
       <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -1939,6 +2145,8 @@ PDR     : 0.67</description>
       
       
       
+      
+    
     
     
     
@@ -1956,6 +2164,8 @@ PDR     : 0.67</description>
     
     
     </item>
+    
+    
     
     
     
@@ -2021,7 +2231,11 @@ PDR     : 0.67</description>
       
       
       
+      
+      
       <title>INHD | Big D2 | 2026-06-08</title>
+      
+      
       
       
       
@@ -2087,7 +2301,11 @@ PDR     : 0.67</description>
       
       
       
+      
+      
       <guid isPermaLink="false">INHD_Big D2_2026-06-08</guid>
+      
+      
       
       
       
@@ -2157,6 +2375,8 @@ PDR     : 42.26</description>
       
       
       
+      
+      
       <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -2174,6 +2394,8 @@ PDR     : 42.26</description>
       
       
       
+      
+    
     
     
     
@@ -2191,6 +2413,8 @@ PDR     : 42.26</description>
     
     
     </item>
+    
+    
     
     
     
@@ -2256,7 +2480,11 @@ PDR     : 42.26</description>
       
       
       
+      
+      
       <title>INHD | Big D2+ | 2026-06-08</title>
+      
+      
       
       
       
@@ -2322,7 +2550,11 @@ PDR     : 42.26</description>
       
       
       
+      
+      
       <guid isPermaLink="false">INHD_Big D2+_2026-06-08</guid>
+      
+      
       
       
       
@@ -2392,6 +2624,8 @@ PDR     : 42.26</description>
       
       
       
+      
+      
       <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -2409,6 +2643,8 @@ PDR     : 42.26</description>
       
       
       
+      
+    
     
     
     
@@ -2426,6 +2662,8 @@ PDR     : 42.26</description>
     
     
     </item>
+    
+    
     
     
     
@@ -2491,7 +2729,11 @@ PDR     : 42.26</description>
       
       
       
+      
+      
       <title>GRAN | D2 EG | 2026-06-08</title>
+      
+      
       
       
       
@@ -2557,7 +2799,11 @@ PDR     : 42.26</description>
       
       
       
+      
+      
       <guid isPermaLink="false">GRAN_D2 EG_2026-06-08</guid>
+      
+      
       
       
       
@@ -2627,6 +2873,8 @@ PDR     : 1.23</description>
       
       
       
+      
+      
       <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -2644,6 +2892,8 @@ PDR     : 1.23</description>
       
       
       
+      
+    
     
     
     
@@ -2661,6 +2911,8 @@ PDR     : 1.23</description>
     
     
     </item>
+    
+    
     
     
     
@@ -2726,7 +2978,11 @@ PDR     : 1.23</description>
       
       
       
+      
+      
       <title>NPT | Big D2+ | 2026-06-08</title>
+      
+      
       
       
       
@@ -2792,7 +3048,11 @@ PDR     : 1.23</description>
       
       
       
+      
+      
       <guid isPermaLink="false">NPT_Big D2+_2026-06-08</guid>
+      
+      
       
       
       
@@ -2862,6 +3122,8 @@ PDR     : 10.93</description>
       
       
       
+      
+      
       <pubDate>Sun, 07 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -2879,6 +3141,8 @@ PDR     : 10.93</description>
       
       
       
+      
+    
     
     
     
@@ -2928,7 +3192,11 @@ PDR     : 10.93</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3002,6 +3270,8 @@ PDR     : 10.93</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SCAG</link>
       
       
@@ -3039,7 +3309,11 @@ PDR     : 10.93</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SCAG_Big D2_2026-06-05</guid>
+      
+      
       
       
       
@@ -3117,6 +3391,8 @@ PDR     : 0.81</description>
       
       
       
+      
+      
       <pubDate>Thu, 04 Jun 2026 20:00:00 -0000</pubDate>
       
       
@@ -3136,6 +3412,8 @@ PDR     : 0.81</description>
       
       
       
+      
+    
     
     
     
@@ -3155,6 +3433,8 @@ PDR     : 0.81</description>
     
     
     </item>
+    
+    
     
     
     
@@ -3228,7 +3508,11 @@ PDR     : 0.81</description>
       
       
       
+      
+      
       <title>SPHL | Big D2+ | 2026-06-05</title>
+      
+      
       
       
       
@@ -3302,7 +3586,11 @@ PDR     : 0.81</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SPHL_Big D2+_2026-06-05</guid>
+      
+      
       
       
       
@@ -3380,6 +3668,8 @@ PDR     : 8.32</description>
       
       
       
+      
+      
       <pubDate>Thu, 04 Jun 2026 20:00:00 -0000</pubDate>
       
       
@@ -3399,6 +3689,8 @@ PDR     : 8.32</description>
       
       
       
+      
+    
     
     
     
@@ -3436,6 +3728,8 @@ PDR     : 8.32</description>
     
     
     
+    
+  
   
   
   
