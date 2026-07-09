@@ -5,11 +5,34 @@
     <link>https://samsaam26.github.io/mdr-feed/mdr_feed.xml</link>
     <description>End-of-day MDR scan signals (G20/G30/G50/G100/GC30/PDR/CR)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 21:07:28 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:16:13 -0000</lastBuildDate>
     <item>
+      <title>TVRD | MDR Signal | 2026-07-08</title>
+      <link>https://finance.yahoo.com/quote/TVRD</link>
+      <guid isPermaLink="false">TVRD_2026-07-08</guid>
+      <description>Ticker : TVRD
+Date   : 2026-07-08
+G20    : 5.54
+G30    : 5.81
+G50    : 6.34
+G100   : 7.67
+GC30   : 5.21
+PDR    : 2.67
+CR     : 0.72</description>
+      <pubDate>Tue, 07 Jul 2026 22:00:00 -0000</pubDate>
+    </item>
+    <item>
+      
+      
       <title>CLRO | MDR Signal | 2026-07-07</title>
+      
+      
       <link>https://finance.yahoo.com/quote/CLRO</link>
+      
+      
       <guid isPermaLink="false">CLRO_2026-07-07</guid>
+      
+      
       <description>Ticker : CLRO
 Date   : 2026-07-07
 G20    : 15.52
@@ -19,18 +42,32 @@ G100   : 22.21
 GC30   : 14.64
 PDR    : 8.37
 CR     : 0.62</description>
+      
+      
       <pubDate>Mon, 06 Jul 2026 20:00:00 -0000</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       
       
       <title>FCEL | MDR Signal | 2026-06-30</title>
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/FCEL</link>
       
       
+      
+      
       <guid isPermaLink="false">FCEL_2026-06-30</guid>
+      
+      
       
       
       <description>Ticker : FCEL
@@ -44,13 +81,21 @@ PDR    : 8.99
 CR     : 0.80</description>
       
       
+      
+      
       <pubDate>Mon, 29 Jun 2026 22:00:00 -0000</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -68,6 +113,8 @@ CR     : 0.80</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ABBV</link>
       
       
@@ -77,7 +124,11 @@ CR     : 0.80</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ABBV_2026-06-29</guid>
+      
+      
       
       
       
@@ -103,16 +154,22 @@ CR     : 0.43</description>
       
       
       
+      
+      
       <pubDate>Sun, 28 Jun 2026 22:00:00 -0000</pubDate>
       
       
       
       
+      
+    
     
     
     
     
     </item>
+    
+    
     
     
     
@@ -130,7 +187,11 @@ CR     : 0.43</description>
       
       
       
+      
+      
       <title>SLS | MDR Signal | 2026-06-29</title>
+      
+      
       
       
       
@@ -148,7 +209,11 @@ CR     : 0.43</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SLS_2026-06-29</guid>
+      
+      
       
       
       
@@ -174,11 +239,15 @@ CR     : 0.91</description>
       
       
       
+      
+      
       <pubDate>Sun, 28 Jun 2026 22:00:00 -0000</pubDate>
       
       
       
       
+      
+    
     
     
     
@@ -192,7 +261,11 @@ CR     : 0.91</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -222,6 +295,8 @@ CR     : 0.91</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ABBV</link>
       
       
@@ -237,7 +312,11 @@ CR     : 0.91</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ABBV_2026-06-26</guid>
+      
+      
       
       
       
@@ -275,6 +354,8 @@ CR     : 1.00</description>
       
       
       
+      
+      
       <pubDate>Thu, 25 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -283,6 +364,8 @@ CR     : 1.00</description>
       
       
       
+      
+    
     
     
     
@@ -305,7 +388,11 @@ CR     : 1.00</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -347,6 +434,8 @@ CR     : 1.00</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/RGNT</link>
       
       
@@ -368,7 +457,11 @@ CR     : 1.00</description>
       
       
       
+      
+      
       <guid isPermaLink="false">RGNT_2026-06-15</guid>
+      
+      
       
       
       
@@ -418,6 +511,8 @@ CR     : 0.56</description>
       
       
       
+      
+      
       <pubDate>Sun, 14 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -429,6 +524,8 @@ CR     : 0.56</description>
       
       
       
+      
+    
     
     
     
@@ -440,6 +537,8 @@ CR     : 0.56</description>
     
     
     </item>
+    
+    
     
     
     
@@ -481,7 +580,11 @@ CR     : 0.56</description>
       
       
       
+      
+      
       <title>SPCX | MDR Signal | 2026-06-15</title>
+      
+      
       
       
       
@@ -523,7 +626,11 @@ CR     : 0.56</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SPCX_2026-06-15</guid>
+      
+      
       
       
       
@@ -573,6 +680,8 @@ CR     : 0.98</description>
       
       
       
+      
+      
       <pubDate>Sun, 14 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -584,6 +693,8 @@ CR     : 0.98</description>
       
       
       
+      
+    
     
     
     
@@ -615,7 +726,11 @@ CR     : 0.98</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -669,6 +784,8 @@ CR     : 0.98</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/AMPG</link>
       
       
@@ -696,7 +813,11 @@ CR     : 0.98</description>
       
       
       
+      
+      
       <guid isPermaLink="false">AMPG_2026-06-11</guid>
+      
+      
       
       
       
@@ -758,6 +879,8 @@ CR     : 0.55</description>
       
       
       
+      
+      
       <pubDate>Wed, 10 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -772,6 +895,8 @@ CR     : 0.55</description>
       
       
       
+      
+    
     
     
     
@@ -812,7 +937,11 @@ CR     : 0.55</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -878,6 +1007,8 @@ CR     : 0.55</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ANY</link>
       
       
@@ -911,7 +1042,11 @@ CR     : 0.55</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ANY_2026-06-03</guid>
+      
+      
       
       
       
@@ -985,6 +1120,8 @@ CR     : 0.77</description>
       
       
       
+      
+      
       <pubDate>Tue, 02 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -1002,6 +1139,8 @@ CR     : 0.77</description>
       
       
       
+      
+    
     
     
     
@@ -1019,6 +1158,8 @@ CR     : 0.77</description>
     
     
     </item>
+    
+    
     
     
     
@@ -1084,7 +1225,11 @@ CR     : 0.77</description>
       
       
       
+      
+      
       <title>VSH | MDR Signal | 2026-06-03</title>
+      
+      
       
       
       
@@ -1150,7 +1295,11 @@ CR     : 0.77</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VSH_2026-06-03</guid>
+      
+      
       
       
       
@@ -1224,6 +1373,8 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <pubDate>Tue, 02 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -1241,6 +1392,8 @@ CR     : 0.50</description>
       
       
       
+      
+    
     
     
     
@@ -1290,7 +1443,11 @@ CR     : 0.50</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1368,6 +1525,8 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MRVL</link>
       
       
@@ -1407,7 +1566,11 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MRVL_2026-06-02</guid>
+      
+      
       
       
       
@@ -1493,6 +1656,8 @@ CR     : 0.99</description>
       
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -1513,6 +1678,8 @@ CR     : 0.99</description>
       
       
       
+      
+    
     
     
     
@@ -1533,6 +1700,8 @@ CR     : 0.99</description>
     
     
     </item>
+    
+    
     
     
     
@@ -1610,7 +1779,11 @@ CR     : 0.99</description>
       
       
       
+      
+      
       <title>VSH | MDR Signal | 2026-06-02</title>
+      
+      
       
       
       
@@ -1688,7 +1861,11 @@ CR     : 0.99</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VSH_2026-06-02</guid>
+      
+      
       
       
       
@@ -1774,6 +1951,8 @@ CR     : 0.70</description>
       
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -1794,6 +1973,8 @@ CR     : 0.70</description>
       
       
       
+      
+    
     
     
     
@@ -1833,6 +2014,8 @@ CR     : 0.70</description>
     
     
     
+    
+  
   
   
   
