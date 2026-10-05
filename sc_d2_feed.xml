@@ -5,30 +5,115 @@
     <link>https://samsaam26.github.io/mdr-feed/sc_d2_feed.xml</link>
     <description>End-of-day SC D2 scan signals</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 00:15:48 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 20:16:07 -0000</lastBuildDate>
     <item>
-      <title>QTEX | D3+ | 2026-10-02</title>
+      <title>QTEX | D3+ | 2026-10-05</title>
       <link>https://finance.yahoo.com/quote/QTEX</link>
+      <guid isPermaLink="false">QTEX_D3+_2026-10-05</guid>
+      <description>Ticker  : QTEX
+Date    : 2026-10-05
+Setup   : D3+
+Min Gap : 1.68
+PDR     : 0.46</description>
+      <pubDate>Sun, 04 Oct 2026 22:00:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>SCKT | D3+ | 2026-10-05</title>
+      <link>https://finance.yahoo.com/quote/SCKT</link>
+      <guid isPermaLink="false">SCKT_D3+_2026-10-05</guid>
+      <description>Ticker  : SCKT
+Date    : 2026-10-05
+Setup   : D3+
+Min Gap : 1.06
+PDR     : 0.43</description>
+      <pubDate>Sun, 04 Oct 2026 22:00:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>MI | Big D2 | 2026-10-05</title>
+      <link>https://finance.yahoo.com/quote/MI</link>
+      <guid isPermaLink="false">MI_Big D2_2026-10-05</guid>
+      <description>Ticker  : MI
+Date    : 2026-10-05
+Setup   : Big D2
+Min Gap : 9.52
+PDR     : 8.40</description>
+      <pubDate>Sun, 04 Oct 2026 22:00:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>MI | Big D2+ | 2026-10-05</title>
+      <link>https://finance.yahoo.com/quote/MI</link>
+      <guid isPermaLink="false">MI_Big D2+_2026-10-05</guid>
+      <description>Ticker  : MI
+Date    : 2026-10-05
+Setup   : Big D2+
+Min Gap : 11.20
+PDR     : 8.40</description>
+      <pubDate>Sun, 04 Oct 2026 22:00:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>PDSB | D2 | 2026-10-05</title>
+      <link>https://finance.yahoo.com/quote/PDSB</link>
+      <guid isPermaLink="false">PDSB_D2_2026-10-05</guid>
+      <description>Ticker  : PDSB
+Date    : 2026-10-05
+Setup   : D2
+Min Gap : 1.38
+PDR     : 0.59</description>
+      <pubDate>Sun, 04 Oct 2026 22:00:00 -0000</pubDate>
+    </item>
+    <item>
+      
+      
+      <title>QTEX | D3+ | 2026-10-02</title>
+      
+      
+      <link>https://finance.yahoo.com/quote/QTEX</link>
+      
+      
       <guid isPermaLink="false">QTEX_D3+_2026-10-02</guid>
+      
+      
       <description>Ticker  : QTEX
 Date    : 2026-10-02
 Setup   : D3+
 Min Gap : 1.23
 PDR     : 0.43</description>
+      
+      
       <pubDate>Thu, 01 Oct 2026 22:00:00 -0000</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>SDEV | D3+ | 2026-10-02</title>
+      
+      
       <link>https://finance.yahoo.com/quote/SDEV</link>
+      
+      
       <guid isPermaLink="false">SDEV_D3+_2026-10-02</guid>
+      
+      
       <description>Ticker  : SDEV
 Date    : 2026-10-02
 Setup   : D3+
 Min Gap : 8.29
 PDR     : 2.67</description>
+      
+      
       <pubDate>Thu, 01 Oct 2026 22:00:00 -0000</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       
       
       
@@ -42,6 +127,8 @@ PDR     : 2.67</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/TGE</link>
       
       
@@ -49,7 +136,11 @@ PDR     : 2.67</description>
       
       
       
+      
+      
       <guid isPermaLink="false">TGE_D2_2026-09-30</guid>
+      
+      
       
       
       
@@ -67,14 +158,20 @@ PDR     : 0.91</description>
       
       
       
+      
+      
       <pubDate>Tue, 29 Sep 2026 22:00:00 -0000</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -88,7 +185,11 @@ PDR     : 0.91</description>
       
       
       
+      
+      
       <title>CMCT | D2 EG | 2026-09-30</title>
+      
+      
       
       
       
@@ -102,7 +203,11 @@ PDR     : 0.91</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CMCT_D2 EG_2026-09-30</guid>
+      
+      
       
       
       
@@ -120,10 +225,14 @@ PDR     : 2.00</description>
       
       
       
+      
+      
       <pubDate>Tue, 29 Sep 2026 22:00:00 -0000</pubDate>
       
       
       
+      
+    
     
     
     
@@ -134,7 +243,11 @@ PDR     : 2.00</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -160,6 +273,8 @@ PDR     : 2.00</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SDEV</link>
       
       
@@ -173,7 +288,11 @@ PDR     : 2.00</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SDEV_D2_2026-09-29</guid>
+      
+      
       
       
       
@@ -203,6 +322,8 @@ PDR     : 2.31</description>
       
       
       
+      
+      
       <pubDate>Mon, 28 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -210,6 +331,8 @@ PDR     : 2.31</description>
       
       
       
+      
+    
     
     
     
@@ -229,7 +352,11 @@ PDR     : 2.31</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -267,6 +394,8 @@ PDR     : 2.31</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/KOD</link>
       
       
@@ -286,7 +415,11 @@ PDR     : 2.31</description>
       
       
       
+      
+      
       <guid isPermaLink="false">KOD_D2_2026-09-28</guid>
+      
+      
       
       
       
@@ -328,6 +461,8 @@ PDR     : 35.28</description>
       
       
       
+      
+      
       <pubDate>Sun, 27 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -338,6 +473,8 @@ PDR     : 35.28</description>
       
       
       
+      
+    
     
     
     
@@ -348,6 +485,8 @@ PDR     : 35.28</description>
     
     
     </item>
+    
+    
     
     
     
@@ -385,7 +524,11 @@ PDR     : 35.28</description>
       
       
       
+      
+      
       <title>KNRX | Big D2 | 2026-09-28</title>
+      
+      
       
       
       
@@ -423,7 +566,11 @@ PDR     : 35.28</description>
       
       
       
+      
+      
       <guid isPermaLink="false">KNRX_Big D2_2026-09-28</guid>
+      
+      
       
       
       
@@ -465,6 +612,8 @@ PDR     : 1.29</description>
       
       
       
+      
+      
       <pubDate>Sun, 27 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -475,6 +624,8 @@ PDR     : 1.29</description>
       
       
       
+      
+    
     
     
     
@@ -485,6 +636,8 @@ PDR     : 1.29</description>
     
     
     </item>
+    
+    
     
     
     
@@ -522,7 +675,11 @@ PDR     : 1.29</description>
       
       
       
+      
+      
       <title>KNRX | Big D2+ | 2026-09-28</title>
+      
+      
       
       
       
@@ -560,7 +717,11 @@ PDR     : 1.29</description>
       
       
       
+      
+      
       <guid isPermaLink="false">KNRX_Big D2+_2026-09-28</guid>
+      
+      
       
       
       
@@ -602,6 +763,8 @@ PDR     : 1.29</description>
       
       
       
+      
+      
       <pubDate>Sun, 27 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -612,6 +775,8 @@ PDR     : 1.29</description>
       
       
       
+      
+    
     
     
     
@@ -640,7 +805,11 @@ PDR     : 1.29</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -690,6 +859,8 @@ PDR     : 1.29</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/TDIC</link>
       
       
@@ -715,7 +886,11 @@ PDR     : 1.29</description>
       
       
       
+      
+      
       <guid isPermaLink="false">TDIC_D2_2026-09-25</guid>
+      
+      
       
       
       
@@ -769,6 +944,8 @@ PDR     : 2.05</description>
       
       
       
+      
+      
       <pubDate>Thu, 24 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -782,6 +959,8 @@ PDR     : 2.05</description>
       
       
       
+      
+    
     
     
     
@@ -795,6 +974,8 @@ PDR     : 2.05</description>
     
     
     </item>
+    
+    
     
     
     
@@ -844,7 +1025,11 @@ PDR     : 2.05</description>
       
       
       
+      
+      
       <title>MSGY | Big D2 | 2026-09-25</title>
+      
+      
       
       
       
@@ -894,7 +1079,11 @@ PDR     : 2.05</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MSGY_Big D2_2026-09-25</guid>
+      
+      
       
       
       
@@ -948,6 +1137,8 @@ PDR     : 9.45</description>
       
       
       
+      
+      
       <pubDate>Thu, 24 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -961,6 +1152,8 @@ PDR     : 9.45</description>
       
       
       
+      
+    
     
     
     
@@ -974,6 +1167,8 @@ PDR     : 9.45</description>
     
     
     </item>
+    
+    
     
     
     
@@ -1023,7 +1218,11 @@ PDR     : 9.45</description>
       
       
       
+      
+      
       <title>MSGY | Big D2+ | 2026-09-25</title>
+      
+      
       
       
       
@@ -1073,7 +1272,11 @@ PDR     : 9.45</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MSGY_Big D2+_2026-09-25</guid>
+      
+      
       
       
       
@@ -1127,6 +1330,8 @@ PDR     : 9.45</description>
       
       
       
+      
+      
       <pubDate>Thu, 24 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -1140,6 +1345,8 @@ PDR     : 9.45</description>
       
       
       
+      
+    
     
     
     
@@ -1177,7 +1384,11 @@ PDR     : 9.45</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1239,6 +1450,8 @@ PDR     : 9.45</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/PMAX</link>
       
       
@@ -1270,7 +1483,11 @@ PDR     : 9.45</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PMAX_D2 EG_2026-09-24</guid>
+      
+      
       
       
       
@@ -1336,6 +1553,8 @@ PDR     : 1.91</description>
       
       
       
+      
+      
       <pubDate>Wed, 23 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -1352,6 +1571,8 @@ PDR     : 1.91</description>
       
       
       
+      
+    
     
     
     
@@ -1368,6 +1589,8 @@ PDR     : 1.91</description>
     
     
     </item>
+    
+    
     
     
     
@@ -1429,7 +1652,11 @@ PDR     : 1.91</description>
       
       
       
+      
+      
       <title>GLND | D2 | 2026-09-24</title>
+      
+      
       
       
       
@@ -1491,7 +1718,11 @@ PDR     : 1.91</description>
       
       
       
+      
+      
       <guid isPermaLink="false">GLND_D2_2026-09-24</guid>
+      
+      
       
       
       
@@ -1557,6 +1788,8 @@ PDR     : 2.45</description>
       
       
       
+      
+      
       <pubDate>Wed, 23 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -1573,6 +1806,8 @@ PDR     : 2.45</description>
       
       
       
+      
+    
     
     
     
@@ -1619,7 +1854,11 @@ PDR     : 2.45</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1693,6 +1932,8 @@ PDR     : 2.45</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/VSA</link>
       
       
@@ -1730,7 +1971,11 @@ PDR     : 2.45</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VSA_D2 EG_2026-09-23</guid>
+      
+      
       
       
       
@@ -1808,6 +2053,8 @@ PDR     : 5.15</description>
       
       
       
+      
+      
       <pubDate>Tue, 22 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -1827,6 +2074,8 @@ PDR     : 5.15</description>
       
       
       
+      
+    
     
     
     
@@ -1882,7 +2131,11 @@ PDR     : 5.15</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1968,6 +2221,8 @@ PDR     : 5.15</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/RAIN</link>
       
       
@@ -2011,7 +2266,11 @@ PDR     : 5.15</description>
       
       
       
+      
+      
       <guid isPermaLink="false">RAIN_D2 EG_2026-09-22</guid>
+      
+      
       
       
       
@@ -2101,6 +2360,8 @@ PDR     : 0.87</description>
       
       
       
+      
+      
       <pubDate>Mon, 21 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -2123,6 +2384,8 @@ PDR     : 0.87</description>
       
       
       
+      
+    
     
     
     
@@ -2145,6 +2408,8 @@ PDR     : 0.87</description>
     
     
     </item>
+    
+    
     
     
     
@@ -2230,7 +2495,11 @@ PDR     : 0.87</description>
       
       
       
+      
+      
       <title>JAGX | Big D2 | 2026-09-22</title>
+      
+      
       
       
       
@@ -2316,7 +2585,11 @@ PDR     : 0.87</description>
       
       
       
+      
+      
       <guid isPermaLink="false">JAGX_Big D2_2026-09-22</guid>
+      
+      
       
       
       
@@ -2406,6 +2679,8 @@ PDR     : 38.78</description>
       
       
       
+      
+      
       <pubDate>Mon, 21 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -2428,6 +2703,8 @@ PDR     : 38.78</description>
       
       
       
+      
+    
     
     
     
@@ -2450,6 +2727,8 @@ PDR     : 38.78</description>
     
     
     </item>
+    
+    
     
     
     
@@ -2535,7 +2814,11 @@ PDR     : 38.78</description>
       
       
       
+      
+      
       <title>JAGX | Big D2+ | 2026-09-22</title>
+      
+      
       
       
       
@@ -2621,7 +2904,11 @@ PDR     : 38.78</description>
       
       
       
+      
+      
       <guid isPermaLink="false">JAGX_Big D2+_2026-09-22</guid>
+      
+      
       
       
       
@@ -2711,6 +2998,8 @@ PDR     : 38.78</description>
       
       
       
+      
+      
       <pubDate>Mon, 21 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -2733,6 +3022,8 @@ PDR     : 38.78</description>
       
       
       
+      
+    
     
     
     
@@ -2755,6 +3046,8 @@ PDR     : 38.78</description>
     
     
     </item>
+    
+    
     
     
     
@@ -2840,7 +3133,11 @@ PDR     : 38.78</description>
       
       
       
+      
+      
       <title>GRML | D3+ | 2026-09-22</title>
+      
+      
       
       
       
@@ -2926,7 +3223,11 @@ PDR     : 38.78</description>
       
       
       
+      
+      
       <guid isPermaLink="false">GRML_D3+_2026-09-22</guid>
+      
+      
       
       
       
@@ -3016,6 +3317,8 @@ PDR     : 5.60</description>
       
       
       
+      
+      
       <pubDate>Mon, 21 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -3038,6 +3341,8 @@ PDR     : 5.60</description>
       
       
       
+      
+    
     
     
     
@@ -3102,7 +3407,11 @@ PDR     : 5.60</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3200,6 +3509,8 @@ PDR     : 5.60</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/VEEE</link>
       
       
@@ -3249,7 +3560,11 @@ PDR     : 5.60</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VEEE_D2 EG_2026-09-21</guid>
+      
+      
       
       
       
@@ -3351,6 +3666,8 @@ PDR     : 9.17</description>
       
       
       
+      
+      
       <pubDate>Sun, 20 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -3376,6 +3693,8 @@ PDR     : 9.17</description>
       
       
       
+      
+    
     
     
     
@@ -3401,6 +3720,8 @@ PDR     : 9.17</description>
     
     
     </item>
+    
+    
     
     
     
@@ -3498,7 +3819,11 @@ PDR     : 9.17</description>
       
       
       
+      
+      
       <title>BTTC | D2 EG | 2026-09-21</title>
+      
+      
       
       
       
@@ -3596,7 +3921,11 @@ PDR     : 9.17</description>
       
       
       
+      
+      
       <guid isPermaLink="false">BTTC_D2 EG_2026-09-21</guid>
+      
+      
       
       
       
@@ -3698,6 +4027,8 @@ PDR     : 0.42</description>
       
       
       
+      
+      
       <pubDate>Sun, 20 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -3723,6 +4054,8 @@ PDR     : 0.42</description>
       
       
       
+      
+    
     
     
     
@@ -3748,6 +4081,8 @@ PDR     : 0.42</description>
     
     
     </item>
+    
+    
     
     
     
@@ -3845,7 +4180,11 @@ PDR     : 0.42</description>
       
       
       
+      
+      
       <title>AVAT | D2 | 2026-09-21</title>
+      
+      
       
       
       
@@ -3943,7 +4282,11 @@ PDR     : 0.42</description>
       
       
       
+      
+      
       <guid isPermaLink="false">AVAT_D2_2026-09-21</guid>
+      
+      
       
       
       
@@ -4045,6 +4388,8 @@ PDR     : 0.75</description>
       
       
       
+      
+      
       <pubDate>Sun, 20 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -4070,6 +4415,8 @@ PDR     : 0.75</description>
       
       
       
+      
+    
     
     
     
@@ -4095,6 +4442,8 @@ PDR     : 0.75</description>
     
     
     </item>
+    
+    
     
     
     
@@ -4192,7 +4541,11 @@ PDR     : 0.75</description>
       
       
       
+      
+      
       <title>GRML | Big D2+ | 2026-09-21</title>
+      
+      
       
       
       
@@ -4290,7 +4643,11 @@ PDR     : 0.75</description>
       
       
       
+      
+      
       <guid isPermaLink="false">GRML_Big D2+_2026-09-21</guid>
+      
+      
       
       
       
@@ -4392,6 +4749,8 @@ PDR     : 5.05</description>
       
       
       
+      
+      
       <pubDate>Sun, 20 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -4417,6 +4776,8 @@ PDR     : 5.05</description>
       
       
       
+      
+    
     
     
     
@@ -4442,6 +4803,8 @@ PDR     : 5.05</description>
     
     
     </item>
+    
+    
     
     
     
@@ -4539,7 +4902,11 @@ PDR     : 5.05</description>
       
       
       
+      
+      
       <title>VRME | D2 EG | 2026-09-21</title>
+      
+      
       
       
       
@@ -4637,7 +5004,11 @@ PDR     : 5.05</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VRME_D2 EG_2026-09-21</guid>
+      
+      
       
       
       
@@ -4739,6 +5110,8 @@ PDR     : 1.01</description>
       
       
       
+      
+      
       <pubDate>Sun, 20 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -4764,6 +5137,8 @@ PDR     : 1.01</description>
       
       
       
+      
+    
     
     
     
@@ -4837,7 +5212,11 @@ PDR     : 1.01</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4947,6 +5326,8 @@ PDR     : 1.01</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/DAIC</link>
       
       
@@ -5002,7 +5383,11 @@ PDR     : 1.01</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DAIC_D2 EG_2026-09-17</guid>
+      
+      
       
       
       
@@ -5116,6 +5501,8 @@ PDR     : 3.18</description>
       
       
       
+      
+      
       <pubDate>Wed, 16 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -5144,6 +5531,8 @@ PDR     : 3.18</description>
       
       
       
+      
+    
     
     
     
@@ -5172,6 +5561,8 @@ PDR     : 3.18</description>
     
     
     </item>
+    
+    
     
     
     
@@ -5281,7 +5672,11 @@ PDR     : 3.18</description>
       
       
       
+      
+      
       <title>PAAI | Big D2 | 2026-09-17</title>
+      
+      
       
       
       
@@ -5391,7 +5786,11 @@ PDR     : 3.18</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PAAI_Big D2_2026-09-17</guid>
+      
+      
       
       
       
@@ -5505,6 +5904,8 @@ PDR     : 2.54</description>
       
       
       
+      
+      
       <pubDate>Wed, 16 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -5533,6 +5934,8 @@ PDR     : 2.54</description>
       
       
       
+      
+    
     
     
     
@@ -5615,7 +6018,11 @@ PDR     : 2.54</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -5737,6 +6144,8 @@ PDR     : 2.54</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/PDSB</link>
       
       
@@ -5798,7 +6207,11 @@ PDR     : 2.54</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PDSB_D3+_2026-09-16</guid>
+      
+      
       
       
       
@@ -5924,6 +6337,8 @@ PDR     : 0.45</description>
       
       
       
+      
+      
       <pubDate>Tue, 15 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -5955,6 +6370,8 @@ PDR     : 0.45</description>
       
       
       
+      
+    
     
     
     
@@ -5986,6 +6403,8 @@ PDR     : 0.45</description>
     
     
     </item>
+    
+    
     
     
     
@@ -6107,7 +6526,11 @@ PDR     : 0.45</description>
       
       
       
+      
+      
       <title>MEDS | D3+ | 2026-09-16</title>
+      
+      
       
       
       
@@ -6229,7 +6652,11 @@ PDR     : 0.45</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MEDS_D3+_2026-09-16</guid>
+      
+      
       
       
       
@@ -6355,6 +6782,8 @@ PDR     : 8.31</description>
       
       
       
+      
+      
       <pubDate>Tue, 15 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -6386,6 +6815,8 @@ PDR     : 8.31</description>
       
       
       
+      
+    
     
     
     
@@ -6417,6 +6848,8 @@ PDR     : 8.31</description>
     
     
     </item>
+    
+    
     
     
     
@@ -6538,7 +6971,11 @@ PDR     : 8.31</description>
       
       
       
+      
+      
       <title>NAMI | D3+ | 2026-09-16</title>
+      
+      
       
       
       
@@ -6660,7 +7097,11 @@ PDR     : 8.31</description>
       
       
       
+      
+      
       <guid isPermaLink="false">NAMI_D3+_2026-09-16</guid>
+      
+      
       
       
       
@@ -6786,6 +7227,8 @@ PDR     : 1.18</description>
       
       
       
+      
+      
       <pubDate>Tue, 15 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -6817,6 +7260,8 @@ PDR     : 1.18</description>
       
       
       
+      
+    
     
     
     
@@ -6848,6 +7293,8 @@ PDR     : 1.18</description>
     
     
     </item>
+    
+    
     
     
     
@@ -6969,7 +7416,11 @@ PDR     : 1.18</description>
       
       
       
+      
+      
       <title>DLXY | Big D2+ | 2026-09-16</title>
+      
+      
       
       
       
@@ -7091,7 +7542,11 @@ PDR     : 1.18</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DLXY_Big D2+_2026-09-16</guid>
+      
+      
       
       
       
@@ -7217,6 +7672,8 @@ PDR     : 3.80</description>
       
       
       
+      
+      
       <pubDate>Tue, 15 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -7248,6 +7705,8 @@ PDR     : 3.80</description>
       
       
       
+      
+    
     
     
     
@@ -7339,7 +7798,11 @@ PDR     : 3.80</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -7473,6 +7936,8 @@ PDR     : 3.80</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/VEEA</link>
       
       
@@ -7540,7 +8005,11 @@ PDR     : 3.80</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VEEA_D3+_2026-09-15</guid>
+      
+      
       
       
       
@@ -7678,6 +8147,8 @@ PDR     : 3.19</description>
       
       
       
+      
+      
       <pubDate>Mon, 14 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -7712,6 +8183,8 @@ PDR     : 3.19</description>
       
       
       
+      
+    
     
     
     
@@ -7746,6 +8219,8 @@ PDR     : 3.19</description>
     
     
     </item>
+    
+    
     
     
     
@@ -7879,7 +8354,11 @@ PDR     : 3.19</description>
       
       
       
+      
+      
       <title>IPW | D2 EG | 2026-09-15</title>
+      
+      
       
       
       
@@ -8013,7 +8492,11 @@ PDR     : 3.19</description>
       
       
       
+      
+      
       <guid isPermaLink="false">IPW_D2 EG_2026-09-15</guid>
+      
+      
       
       
       
@@ -8151,6 +8634,8 @@ PDR     : 2.30</description>
       
       
       
+      
+      
       <pubDate>Mon, 14 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -8185,6 +8670,8 @@ PDR     : 2.30</description>
       
       
       
+      
+    
     
     
     
@@ -8219,6 +8706,8 @@ PDR     : 2.30</description>
     
     
     </item>
+    
+    
     
     
     
@@ -8352,7 +8841,11 @@ PDR     : 2.30</description>
       
       
       
+      
+      
       <title>RETO | Big D2 | 2026-09-15</title>
+      
+      
       
       
       
@@ -8486,7 +8979,11 @@ PDR     : 2.30</description>
       
       
       
+      
+      
       <guid isPermaLink="false">RETO_Big D2_2026-09-15</guid>
+      
+      
       
       
       
@@ -8624,6 +9121,8 @@ PDR     : 4.12</description>
       
       
       
+      
+      
       <pubDate>Mon, 14 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -8658,6 +9157,8 @@ PDR     : 4.12</description>
       
       
       
+      
+    
     
     
     
@@ -8692,6 +9193,8 @@ PDR     : 4.12</description>
     
     
     </item>
+    
+    
     
     
     
@@ -8825,7 +9328,11 @@ PDR     : 4.12</description>
       
       
       
+      
+      
       <title>RETO | Big D2+ | 2026-09-15</title>
+      
+      
       
       
       
@@ -8959,7 +9466,11 @@ PDR     : 4.12</description>
       
       
       
+      
+      
       <guid isPermaLink="false">RETO_Big D2+_2026-09-15</guid>
+      
+      
       
       
       
@@ -9097,6 +9608,8 @@ PDR     : 4.12</description>
       
       
       
+      
+      
       <pubDate>Mon, 14 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -9131,6 +9644,8 @@ PDR     : 4.12</description>
       
       
       
+      
+    
     
     
     
@@ -9231,7 +9746,11 @@ PDR     : 4.12</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -9377,6 +9896,8 @@ PDR     : 4.12</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/FTFT</link>
       
       
@@ -9450,7 +9971,11 @@ PDR     : 4.12</description>
       
       
       
+      
+      
       <guid isPermaLink="false">FTFT_D3+_2026-09-14</guid>
+      
+      
       
       
       
@@ -9600,6 +10125,8 @@ PDR     : 6.23</description>
       
       
       
+      
+      
       <pubDate>Sun, 13 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -9637,6 +10164,8 @@ PDR     : 6.23</description>
       
       
       
+      
+    
     
     
     
@@ -9746,7 +10275,11 @@ PDR     : 6.23</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -9904,6 +10437,8 @@ PDR     : 6.23</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/BDRX</link>
       
       
@@ -9983,7 +10518,11 @@ PDR     : 6.23</description>
       
       
       
+      
+      
       <guid isPermaLink="false">BDRX_D2_2026-09-11</guid>
+      
+      
       
       
       
@@ -10145,6 +10684,8 @@ PDR     : 0.72</description>
       
       
       
+      
+      
       <pubDate>Thu, 10 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -10185,6 +10726,8 @@ PDR     : 0.72</description>
       
       
       
+      
+    
     
     
     
@@ -10303,7 +10846,11 @@ PDR     : 0.72</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -10473,6 +11020,8 @@ PDR     : 0.72</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/TNON</link>
       
       
@@ -10558,7 +11107,11 @@ PDR     : 0.72</description>
       
       
       
+      
+      
       <guid isPermaLink="false">TNON_D2_2026-09-10</guid>
+      
+      
       
       
       
@@ -10732,6 +11285,8 @@ PDR     : 2.00</description>
       
       
       
+      
+      
       <pubDate>Wed, 09 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -10775,6 +11330,8 @@ PDR     : 2.00</description>
       
       
       
+      
+    
     
     
     
@@ -10902,7 +11459,11 @@ PDR     : 2.00</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -11084,6 +11645,8 @@ PDR     : 2.00</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SUNE</link>
       
       
@@ -11175,7 +11738,11 @@ PDR     : 2.00</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SUNE_D2_2026-09-09</guid>
+      
+      
       
       
       
@@ -11361,6 +11928,8 @@ PDR     : 1.94</description>
       
       
       
+      
+      
       <pubDate>Tue, 08 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -11407,6 +11976,8 @@ PDR     : 1.94</description>
       
       
       
+      
+    
     
     
     
@@ -11453,6 +12024,8 @@ PDR     : 1.94</description>
     
     
     </item>
+    
+    
     
     
     
@@ -11634,7 +12207,11 @@ PDR     : 1.94</description>
       
       
       
+      
+      
       <title>FTFT | D2 EG | 2026-09-09</title>
+      
+      
       
       
       
@@ -11816,7 +12393,11 @@ PDR     : 1.94</description>
       
       
       
+      
+      
       <guid isPermaLink="false">FTFT_D2 EG_2026-09-09</guid>
+      
+      
       
       
       
@@ -12002,6 +12583,8 @@ PDR     : 2.30</description>
       
       
       
+      
+      
       <pubDate>Tue, 08 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -12048,6 +12631,8 @@ PDR     : 2.30</description>
       
       
       
+      
+    
     
     
     
@@ -12184,7 +12769,11 @@ PDR     : 2.30</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -12378,6 +12967,8 @@ PDR     : 2.30</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/GCDT</link>
       
       
@@ -12475,7 +13066,11 @@ PDR     : 2.30</description>
       
       
       
+      
+      
       <guid isPermaLink="false">GCDT_D2_2026-09-08</guid>
+      
+      
       
       
       
@@ -12673,6 +13268,8 @@ PDR     : 0.81</description>
       
       
       
+      
+      
       <pubDate>Mon, 07 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -12722,6 +13319,8 @@ PDR     : 0.81</description>
       
       
       
+      
+    
     
     
     
@@ -12867,7 +13466,11 @@ PDR     : 0.81</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -13073,6 +13676,8 @@ PDR     : 0.81</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/DSS</link>
       
       
@@ -13176,7 +13781,11 @@ PDR     : 0.81</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DSS_D2 EG_2026-09-03</guid>
+      
+      
       
       
       
@@ -13386,6 +13995,8 @@ PDR     : 0.58</description>
       
       
       
+      
+      
       <pubDate>Wed, 02 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -13438,6 +14049,8 @@ PDR     : 0.58</description>
       
       
       
+      
+    
     
     
     
@@ -13592,7 +14205,11 @@ PDR     : 0.58</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -13810,6 +14427,8 @@ PDR     : 0.58</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/CELU</link>
       
       
@@ -13919,7 +14538,11 @@ PDR     : 0.58</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CELU_D2_2026-08-27</guid>
+      
+      
       
       
       
@@ -14141,6 +14764,8 @@ PDR     : 1.63</description>
       
       
       
+      
+      
       <pubDate>Wed, 26 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -14196,6 +14821,8 @@ PDR     : 1.63</description>
       
       
       
+      
+    
     
     
     
@@ -14359,7 +14986,11 @@ PDR     : 1.63</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -14589,6 +15220,8 @@ PDR     : 1.63</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/XPON</link>
       
       
@@ -14704,7 +15337,11 @@ PDR     : 1.63</description>
       
       
       
+      
+      
       <guid isPermaLink="false">XPON_D2_2026-08-26</guid>
+      
+      
       
       
       
@@ -14938,6 +15575,8 @@ PDR     : 5.49</description>
       
       
       
+      
+      
       <pubDate>Tue, 25 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -14996,6 +15635,8 @@ PDR     : 5.49</description>
       
       
       
+      
+    
     
     
     
@@ -15168,7 +15809,11 @@ PDR     : 5.49</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -15406,6 +16051,8 @@ PDR     : 5.49</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/JEM</link>
       
       
@@ -15525,7 +16172,11 @@ PDR     : 5.49</description>
       
       
       
+      
+      
       <guid isPermaLink="false">JEM_D2 EG_2026-08-25</guid>
+      
+      
       
       
       
@@ -15767,6 +16418,8 @@ PDR     : 4.12</description>
       
       
       
+      
+      
       <pubDate>Mon, 24 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -15827,6 +16480,8 @@ PDR     : 4.12</description>
       
       
       
+      
+    
     
     
     
@@ -15887,6 +16542,8 @@ PDR     : 4.12</description>
     
     
     </item>
+    
+    
     
     
     
@@ -16124,7 +16781,11 @@ PDR     : 4.12</description>
       
       
       
+      
+      
       <title>PMI | D3+ | 2026-08-25</title>
+      
+      
       
       
       
@@ -16362,7 +17023,11 @@ PDR     : 4.12</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PMI_D3+_2026-08-25</guid>
+      
+      
       
       
       
@@ -16604,6 +17269,8 @@ PDR     : 5.30</description>
       
       
       
+      
+      
       <pubDate>Mon, 24 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -16664,6 +17331,8 @@ PDR     : 5.30</description>
       
       
       
+      
+    
     
     
     
@@ -16724,6 +17393,8 @@ PDR     : 5.30</description>
     
     
     </item>
+    
+    
     
     
     
@@ -16961,7 +17632,11 @@ PDR     : 5.30</description>
       
       
       
+      
+      
       <title>DAIC | D3+ | 2026-08-25</title>
+      
+      
       
       
       
@@ -17199,7 +17874,11 @@ PDR     : 5.30</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DAIC_D3+_2026-08-25</guid>
+      
+      
       
       
       
@@ -17441,6 +18120,8 @@ PDR     : 2.21</description>
       
       
       
+      
+      
       <pubDate>Mon, 24 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -17501,6 +18182,8 @@ PDR     : 2.21</description>
       
       
       
+      
+    
     
     
     
@@ -17679,7 +18362,11 @@ PDR     : 2.21</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -17929,6 +18616,8 @@ PDR     : 2.21</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/DAIC</link>
       
       
@@ -18054,7 +18743,11 @@ PDR     : 2.21</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DAIC_Big D2+_2026-08-24</guid>
+      
+      
       
       
       
@@ -18308,6 +19001,8 @@ PDR     : 2.07</description>
       
       
       
+      
+      
       <pubDate>Sun, 23 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -18371,6 +19066,8 @@ PDR     : 2.07</description>
       
       
       
+      
+    
     
     
     
@@ -18558,7 +19255,11 @@ PDR     : 2.07</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -18820,6 +19521,8 @@ PDR     : 2.07</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/USDE</link>
       
       
@@ -18951,7 +19654,11 @@ PDR     : 2.07</description>
       
       
       
+      
+      
       <guid isPermaLink="false">USDE_D2_2026-08-21</guid>
+      
+      
       
       
       
@@ -19217,6 +19924,8 @@ PDR     : 4.33</description>
       
       
       
+      
+      
       <pubDate>Thu, 20 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -19283,6 +19992,8 @@ PDR     : 4.33</description>
       
       
       
+      
+    
     
     
     
@@ -19349,6 +20060,8 @@ PDR     : 4.33</description>
     
     
     </item>
+    
+    
     
     
     
@@ -19610,7 +20323,11 @@ PDR     : 4.33</description>
       
       
       
+      
+      
       <title>SDOT | D2 EG | 2026-08-21</title>
+      
+      
       
       
       
@@ -19872,7 +20589,11 @@ PDR     : 4.33</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SDOT_D2 EG_2026-08-21</guid>
+      
+      
       
       
       
@@ -20138,6 +20859,8 @@ PDR     : 11.70</description>
       
       
       
+      
+      
       <pubDate>Thu, 20 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -20204,6 +20927,8 @@ PDR     : 11.70</description>
       
       
       
+      
+    
     
     
     
@@ -20400,7 +21125,11 @@ PDR     : 11.70</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -20674,6 +21403,8 @@ PDR     : 11.70</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/BRLS</link>
       
       
@@ -20811,7 +21542,11 @@ PDR     : 11.70</description>
       
       
       
+      
+      
       <guid isPermaLink="false">BRLS_D2_2026-08-20</guid>
+      
+      
       
       
       
@@ -21089,6 +21824,8 @@ PDR     : 1.62</description>
       
       
       
+      
+      
       <pubDate>Wed, 19 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -21158,6 +21895,8 @@ PDR     : 1.62</description>
       
       
       
+      
+    
     
     
     
@@ -21363,7 +22102,11 @@ PDR     : 1.62</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -21649,6 +22392,8 @@ PDR     : 1.62</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MRNA</link>
       
       
@@ -21792,7 +22537,11 @@ PDR     : 1.62</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MRNA_D2_2026-08-19</guid>
+      
+      
       
       
       
@@ -22082,6 +22831,8 @@ PDR     : 62.20</description>
       
       
       
+      
+      
       <pubDate>Tue, 18 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -22154,6 +22905,8 @@ PDR     : 62.20</description>
       
       
       
+      
+    
     
     
     
@@ -22226,6 +22979,8 @@ PDR     : 62.20</description>
     
     
     </item>
+    
+    
     
     
     
@@ -22511,7 +23266,11 @@ PDR     : 62.20</description>
       
       
       
+      
+      
       <title>BTCT | D2 EG | 2026-08-19</title>
+      
+      
       
       
       
@@ -22797,7 +23556,11 @@ PDR     : 62.20</description>
       
       
       
+      
+      
       <guid isPermaLink="false">BTCT_D2 EG_2026-08-19</guid>
+      
+      
       
       
       
@@ -23087,6 +23850,8 @@ PDR     : 0.85</description>
       
       
       
+      
+      
       <pubDate>Tue, 18 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -23159,6 +23924,8 @@ PDR     : 0.85</description>
       
       
       
+      
+    
     
     
     
@@ -23373,7 +24140,11 @@ PDR     : 0.85</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -23671,6 +24442,8 @@ PDR     : 0.85</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/IPST</link>
       
       
@@ -23820,7 +24593,11 @@ PDR     : 0.85</description>
       
       
       
+      
+      
       <guid isPermaLink="false">IPST_D2 EG_2026-08-18</guid>
+      
+      
       
       
       
@@ -24122,6 +24899,8 @@ PDR     : 18.84</description>
       
       
       
+      
+      
       <pubDate>Mon, 17 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -24197,6 +24976,8 @@ PDR     : 18.84</description>
       
       
       
+      
+    
     
     
     
@@ -24272,6 +25053,8 @@ PDR     : 18.84</description>
     
     
     </item>
+    
+    
     
     
     
@@ -24569,7 +25352,11 @@ PDR     : 18.84</description>
       
       
       
+      
+      
       <title>CAST | D2 | 2026-08-18</title>
+      
+      
       
       
       
@@ -24867,7 +25654,11 @@ PDR     : 18.84</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CAST_D2_2026-08-18</guid>
+      
+      
       
       
       
@@ -25169,6 +25960,8 @@ PDR     : 1.45</description>
       
       
       
+      
+      
       <pubDate>Mon, 17 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -25244,6 +26037,8 @@ PDR     : 1.45</description>
       
       
       
+      
+    
     
     
     
@@ -25319,6 +26114,8 @@ PDR     : 1.45</description>
     
     
     </item>
+    
+    
     
     
     
@@ -25616,7 +26413,11 @@ PDR     : 1.45</description>
       
       
       
+      
+      
       <title>PFSA | Big D2 | 2026-08-18</title>
+      
+      
       
       
       
@@ -25914,7 +26715,11 @@ PDR     : 1.45</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PFSA_Big D2_2026-08-18</guid>
+      
+      
       
       
       
@@ -26216,6 +27021,8 @@ PDR     : 19.75</description>
       
       
       
+      
+      
       <pubDate>Mon, 17 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -26291,6 +27098,8 @@ PDR     : 19.75</description>
       
       
       
+      
+    
     
     
     
@@ -26366,6 +27175,8 @@ PDR     : 19.75</description>
     
     
     </item>
+    
+    
     
     
     
@@ -26663,7 +27474,11 @@ PDR     : 19.75</description>
       
       
       
+      
+      
       <title>PFSA | Big D2+ | 2026-08-18</title>
+      
+      
       
       
       
@@ -26961,7 +27776,11 @@ PDR     : 19.75</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PFSA_Big D2+_2026-08-18</guid>
+      
+      
       
       
       
@@ -27263,6 +28082,8 @@ PDR     : 19.75</description>
       
       
       
+      
+      
       <pubDate>Mon, 17 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -27338,6 +28159,8 @@ PDR     : 19.75</description>
       
       
       
+      
+    
     
     
     
@@ -27561,7 +28384,11 @@ PDR     : 19.75</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -27871,6 +28698,8 @@ PDR     : 19.75</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/WETO</link>
       
       
@@ -28026,7 +28855,11 @@ PDR     : 19.75</description>
       
       
       
+      
+      
       <guid isPermaLink="false">WETO_Big D2_2026-08-17</guid>
+      
+      
       
       
       
@@ -28340,6 +29173,8 @@ PDR     : 19.90</description>
       
       
       
+      
+      
       <pubDate>Sun, 16 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -28418,6 +29253,8 @@ PDR     : 19.90</description>
       
       
       
+      
+    
     
     
     
@@ -28496,6 +29333,8 @@ PDR     : 19.90</description>
     
     
     </item>
+    
+    
     
     
     
@@ -28805,7 +29644,11 @@ PDR     : 19.90</description>
       
       
       
+      
+      
       <title>WETO | D3+ | 2026-08-17</title>
+      
+      
       
       
       
@@ -29115,7 +29958,11 @@ PDR     : 19.90</description>
       
       
       
+      
+      
       <guid isPermaLink="false">WETO_D3+_2026-08-17</guid>
+      
+      
       
       
       
@@ -29429,6 +30276,8 @@ PDR     : 19.90</description>
       
       
       
+      
+      
       <pubDate>Sun, 16 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -29507,6 +30356,8 @@ PDR     : 19.90</description>
       
       
       
+      
+    
     
     
     
@@ -29739,7 +30590,11 @@ PDR     : 19.90</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -30061,6 +30916,8 @@ PDR     : 19.90</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MDXH</link>
       
       
@@ -30222,7 +31079,11 @@ PDR     : 19.90</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MDXH_D2 EG_2026-08-14</guid>
+      
+      
       
       
       
@@ -30548,6 +31409,8 @@ PDR     : 0.55</description>
       
       
       
+      
+      
       <pubDate>Thu, 13 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -30629,6 +31492,8 @@ PDR     : 0.55</description>
       
       
       
+      
+    
     
     
     
@@ -30870,7 +31735,11 @@ PDR     : 0.55</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -31204,6 +32073,8 @@ PDR     : 0.55</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SMCX</link>
       
       
@@ -31371,7 +32242,11 @@ PDR     : 0.55</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SMCX_D3+_2026-08-13</guid>
+      
+      
       
       
       
@@ -31709,6 +32584,8 @@ PDR     : 2.74</description>
       
       
       
+      
+      
       <pubDate>Wed, 12 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -31793,6 +32670,8 @@ PDR     : 2.74</description>
       
       
       
+      
+    
     
     
     
@@ -32043,7 +32922,11 @@ PDR     : 2.74</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -32389,6 +33272,8 @@ PDR     : 2.74</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/BOXL</link>
       
       
@@ -32562,7 +33447,11 @@ PDR     : 2.74</description>
       
       
       
+      
+      
       <guid isPermaLink="false">BOXL_D2_2026-08-12</guid>
+      
+      
       
       
       
@@ -32912,6 +33801,8 @@ PDR     : 5.62</description>
       
       
       
+      
+      
       <pubDate>Tue, 11 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -32999,6 +33890,8 @@ PDR     : 5.62</description>
       
       
       
+      
+    
     
     
     
@@ -33258,7 +34151,11 @@ PDR     : 5.62</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -33616,6 +34513,8 @@ PDR     : 5.62</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/PLAG</link>
       
       
@@ -33795,7 +34694,11 @@ PDR     : 5.62</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PLAG_Big D2_2026-08-11</guid>
+      
+      
       
       
       
@@ -34157,6 +35060,8 @@ PDR     : 5.78</description>
       
       
       
+      
+      
       <pubDate>Mon, 10 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -34247,6 +35152,8 @@ PDR     : 5.78</description>
       
       
       
+      
+    
     
     
     
@@ -34337,6 +35244,8 @@ PDR     : 5.78</description>
     
     
     </item>
+    
+    
     
     
     
@@ -34694,7 +35603,11 @@ PDR     : 5.78</description>
       
       
       
+      
+      
       <title>PLAG | Big D2+ | 2026-08-11</title>
+      
+      
       
       
       
@@ -35052,7 +35965,11 @@ PDR     : 5.78</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PLAG_Big D2+_2026-08-11</guid>
+      
+      
       
       
       
@@ -35414,6 +36331,8 @@ PDR     : 5.78</description>
       
       
       
+      
+      
       <pubDate>Mon, 10 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -35504,6 +36423,8 @@ PDR     : 5.78</description>
       
       
       
+      
+    
     
     
     
@@ -35772,7 +36693,11 @@ PDR     : 5.78</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -36142,6 +37067,8 @@ PDR     : 5.78</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/AXTX</link>
       
       
@@ -36327,7 +37254,11 @@ PDR     : 5.78</description>
       
       
       
+      
+      
       <guid isPermaLink="false">AXTX_D3+_2026-08-07</guid>
+      
+      
       
       
       
@@ -36701,6 +37632,8 @@ PDR     : 3.21</description>
       
       
       
+      
+      
       <pubDate>Thu, 06 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -36794,6 +37727,8 @@ PDR     : 3.21</description>
       
       
       
+      
+    
     
     
     
@@ -36887,6 +37822,8 @@ PDR     : 3.21</description>
     
     
     </item>
+    
+    
     
     
     
@@ -37256,7 +38193,11 @@ PDR     : 3.21</description>
       
       
       
+      
+      
       <title>WWR | D2 | 2026-08-07</title>
+      
+      
       
       
       
@@ -37626,7 +38567,11 @@ PDR     : 3.21</description>
       
       
       
+      
+      
       <guid isPermaLink="false">WWR_D2_2026-08-07</guid>
+      
+      
       
       
       
@@ -38000,6 +38945,8 @@ PDR     : 0.52</description>
       
       
       
+      
+      
       <pubDate>Thu, 06 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -38093,6 +39040,8 @@ PDR     : 0.52</description>
       
       
       
+      
+    
     
     
     
@@ -38370,7 +39319,11 @@ PDR     : 0.52</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -38752,6 +39705,8 @@ PDR     : 0.52</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/XHLD</link>
       
       
@@ -38943,7 +39898,11 @@ PDR     : 0.52</description>
       
       
       
+      
+      
       <guid isPermaLink="false">XHLD_Big D2+_2026-08-06</guid>
+      
+      
       
       
       
@@ -39329,6 +40288,8 @@ PDR     : 4.66</description>
       
       
       
+      
+      
       <pubDate>Wed, 05 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -39425,6 +40386,8 @@ PDR     : 4.66</description>
       
       
       
+      
+    
     
     
     
@@ -39711,7 +40674,11 @@ PDR     : 4.66</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -40105,6 +41072,8 @@ PDR     : 4.66</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ZYBT</link>
       
       
@@ -40302,7 +41271,11 @@ PDR     : 4.66</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ZYBT_D2 EG_2026-08-05</guid>
+      
+      
       
       
       
@@ -40700,6 +41673,8 @@ PDR     : 3.03</description>
       
       
       
+      
+      
       <pubDate>Tue, 04 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -40799,6 +41774,8 @@ PDR     : 3.03</description>
       
       
       
+      
+    
     
     
     
@@ -40898,6 +41875,8 @@ PDR     : 3.03</description>
     
     
     </item>
+    
+    
     
     
     
@@ -41291,7 +42270,11 @@ PDR     : 3.03</description>
       
       
       
+      
+      
       <title>YXT | Big D2 | 2026-08-05</title>
+      
+      
       
       
       
@@ -41685,7 +42668,11 @@ PDR     : 3.03</description>
       
       
       
+      
+      
       <guid isPermaLink="false">YXT_Big D2_2026-08-05</guid>
+      
+      
       
       
       
@@ -42083,6 +43070,8 @@ PDR     : 26.18</description>
       
       
       
+      
+      
       <pubDate>Tue, 04 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -42182,6 +43171,8 @@ PDR     : 26.18</description>
       
       
       
+      
+    
     
     
     
@@ -42281,6 +43272,8 @@ PDR     : 26.18</description>
     
     
     </item>
+    
+    
     
     
     
@@ -42674,7 +43667,11 @@ PDR     : 26.18</description>
       
       
       
+      
+      
       <title>YXT | Big D2+ | 2026-08-05</title>
+      
+      
       
       
       
@@ -43068,7 +44065,11 @@ PDR     : 26.18</description>
       
       
       
+      
+      
       <guid isPermaLink="false">YXT_Big D2+_2026-08-05</guid>
+      
+      
       
       
       
@@ -43466,6 +44467,8 @@ PDR     : 26.18</description>
       
       
       
+      
+      
       <pubDate>Tue, 04 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -43565,6 +44568,8 @@ PDR     : 26.18</description>
       
       
       
+      
+    
     
     
     
@@ -43860,7 +44865,11 @@ PDR     : 26.18</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -44266,6 +45275,8 @@ PDR     : 26.18</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ADGM</link>
       
       
@@ -44469,7 +45480,11 @@ PDR     : 26.18</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ADGM_D2 EG_2026-08-04</guid>
+      
+      
       
       
       
@@ -44879,6 +45894,8 @@ PDR     : 0.58</description>
       
       
       
+      
+      
       <pubDate>Mon, 03 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -44981,6 +45998,8 @@ PDR     : 0.58</description>
       
       
       
+      
+    
     
     
     
@@ -45083,6 +46102,8 @@ PDR     : 0.58</description>
     
     
     </item>
+    
+    
     
     
     
@@ -45488,7 +46509,11 @@ PDR     : 0.58</description>
       
       
       
+      
+      
       <title>AMIX | Big D2 | 2026-08-04</title>
+      
+      
       
       
       
@@ -45894,7 +46919,11 @@ PDR     : 0.58</description>
       
       
       
+      
+      
       <guid isPermaLink="false">AMIX_Big D2_2026-08-04</guid>
+      
+      
       
       
       
@@ -46304,6 +47333,8 @@ PDR     : 19.44</description>
       
       
       
+      
+      
       <pubDate>Mon, 03 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -46406,6 +47437,8 @@ PDR     : 19.44</description>
       
       
       
+      
+    
     
     
     
@@ -46508,6 +47541,8 @@ PDR     : 19.44</description>
     
     
     </item>
+    
+    
     
     
     
@@ -46913,7 +47948,11 @@ PDR     : 19.44</description>
       
       
       
+      
+      
       <title>AMIX | Big D2+ | 2026-08-04</title>
+      
+      
       
       
       
@@ -47319,7 +48358,11 @@ PDR     : 19.44</description>
       
       
       
+      
+      
       <guid isPermaLink="false">AMIX_Big D2+_2026-08-04</guid>
+      
+      
       
       
       
@@ -47729,6 +48772,8 @@ PDR     : 19.44</description>
       
       
       
+      
+      
       <pubDate>Mon, 03 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -47831,6 +48876,8 @@ PDR     : 19.44</description>
       
       
       
+      
+    
     
     
     
@@ -48135,7 +49182,11 @@ PDR     : 19.44</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -48553,6 +49604,8 @@ PDR     : 19.44</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/FUSE</link>
       
       
@@ -48762,7 +49815,11 @@ PDR     : 19.44</description>
       
       
       
+      
+      
       <guid isPermaLink="false">FUSE_D2 EG_2026-08-03</guid>
+      
+      
       
       
       
@@ -49184,6 +50241,8 @@ PDR     : 1.04</description>
       
       
       
+      
+      
       <pubDate>Sun, 02 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -49289,6 +50348,8 @@ PDR     : 1.04</description>
       
       
       
+      
+    
     
     
     
@@ -49602,7 +50663,11 @@ PDR     : 1.04</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -50032,6 +51097,8 @@ PDR     : 1.04</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/GCTK</link>
       
       
@@ -50247,7 +51314,11 @@ PDR     : 1.04</description>
       
       
       
+      
+      
       <guid isPermaLink="false">GCTK_D2_2026-07-30</guid>
+      
+      
       
       
       
@@ -50681,6 +51752,8 @@ PDR     : 0.57</description>
       
       
       
+      
+      
       <pubDate>Wed, 29 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -50789,6 +51862,8 @@ PDR     : 0.57</description>
       
       
       
+      
+    
     
     
     
@@ -50897,6 +51972,8 @@ PDR     : 0.57</description>
     
     
     </item>
+    
+    
     
     
     
@@ -51326,7 +52403,11 @@ PDR     : 0.57</description>
       
       
       
+      
+      
       <title>CYCU | Big D2 | 2026-07-30</title>
+      
+      
       
       
       
@@ -51756,7 +52837,11 @@ PDR     : 0.57</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CYCU_Big D2_2026-07-30</guid>
+      
+      
       
       
       
@@ -52190,6 +53275,8 @@ PDR     : 1.53</description>
       
       
       
+      
+      
       <pubDate>Wed, 29 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -52298,6 +53385,8 @@ PDR     : 1.53</description>
       
       
       
+      
+    
     
     
     
@@ -52406,6 +53495,8 @@ PDR     : 1.53</description>
     
     
     </item>
+    
+    
     
     
     
@@ -52835,7 +53926,11 @@ PDR     : 1.53</description>
       
       
       
+      
+      
       <title>CYCU | Big D2+ | 2026-07-30</title>
+      
+      
       
       
       
@@ -53265,7 +54360,11 @@ PDR     : 1.53</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CYCU_Big D2+_2026-07-30</guid>
+      
+      
       
       
       
@@ -53699,6 +54798,8 @@ PDR     : 1.53</description>
       
       
       
+      
+      
       <pubDate>Wed, 29 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -53807,6 +54908,8 @@ PDR     : 1.53</description>
       
       
       
+      
+    
     
     
     
@@ -54129,7 +55232,11 @@ PDR     : 1.53</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -54571,6 +55678,8 @@ PDR     : 1.53</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/DFNS</link>
       
       
@@ -54792,7 +55901,11 @@ PDR     : 1.53</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DFNS_D3+_2026-07-29</guid>
+      
+      
       
       
       
@@ -55238,6 +56351,8 @@ PDR     : 30.69</description>
       
       
       
+      
+      
       <pubDate>Tue, 28 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -55349,6 +56464,8 @@ PDR     : 30.69</description>
       
       
       
+      
+    
     
     
     
@@ -55680,7 +56797,11 @@ PDR     : 30.69</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -56134,6 +57255,8 @@ PDR     : 30.69</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/STKH</link>
       
       
@@ -56361,7 +57484,11 @@ PDR     : 30.69</description>
       
       
       
+      
+      
       <guid isPermaLink="false">STKH_Big D2+_2026-07-28</guid>
+      
+      
       
       
       
@@ -56819,6 +57946,8 @@ PDR     : 5.03</description>
       
       
       
+      
+      
       <pubDate>Mon, 27 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -56933,6 +58062,8 @@ PDR     : 5.03</description>
       
       
       
+      
+    
     
     
     
@@ -57047,6 +58178,8 @@ PDR     : 5.03</description>
     
     
     </item>
+    
+    
     
     
     
@@ -57500,7 +58633,11 @@ PDR     : 5.03</description>
       
       
       
+      
+      
       <title>SNDQ | D3+ | 2026-07-28</title>
+      
+      
       
       
       
@@ -57954,7 +59091,11 @@ PDR     : 5.03</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SNDQ_D3+_2026-07-28</guid>
+      
+      
       
       
       
@@ -58412,6 +59553,8 @@ PDR     : 8.81</description>
       
       
       
+      
+      
       <pubDate>Mon, 27 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -58526,6 +59669,8 @@ PDR     : 8.81</description>
       
       
       
+      
+    
     
     
     
@@ -58640,6 +59785,8 @@ PDR     : 8.81</description>
     
     
     </item>
+    
+    
     
     
     
@@ -59093,7 +60240,11 @@ PDR     : 8.81</description>
       
       
       
+      
+      
       <title>DFNS | D3+ | 2026-07-28</title>
+      
+      
       
       
       
@@ -59547,7 +60698,11 @@ PDR     : 8.81</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DFNS_D3+_2026-07-28</guid>
+      
+      
       
       
       
@@ -60005,6 +61160,8 @@ PDR     : 16.69</description>
       
       
       
+      
+      
       <pubDate>Mon, 27 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -60119,6 +61276,8 @@ PDR     : 16.69</description>
       
       
       
+      
+    
     
     
     
@@ -60459,7 +61618,11 @@ PDR     : 16.69</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -60925,6 +62088,8 @@ PDR     : 16.69</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ENTX</link>
       
       
@@ -61158,7 +62323,11 @@ PDR     : 16.69</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ENTX_D2_2026-07-27</guid>
+      
+      
       
       
       
@@ -61628,6 +62797,8 @@ PDR     : 1.44</description>
       
       
       
+      
+      
       <pubDate>Sun, 26 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -61745,6 +62916,8 @@ PDR     : 1.44</description>
       
       
       
+      
+    
     
     
     
@@ -61862,6 +63035,8 @@ PDR     : 1.44</description>
     
     
     </item>
+    
+    
     
     
     
@@ -62327,7 +63502,11 @@ PDR     : 1.44</description>
       
       
       
+      
+      
       <title>DFNS | Big D2 | 2026-07-27</title>
+      
+      
       
       
       
@@ -62793,7 +63972,11 @@ PDR     : 1.44</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DFNS_Big D2_2026-07-27</guid>
+      
+      
       
       
       
@@ -63263,6 +64446,8 @@ PDR     : 9.88</description>
       
       
       
+      
+      
       <pubDate>Sun, 26 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -63380,6 +64565,8 @@ PDR     : 9.88</description>
       
       
       
+      
+    
     
     
     
@@ -63497,6 +64684,8 @@ PDR     : 9.88</description>
     
     
     </item>
+    
+    
     
     
     
@@ -63962,7 +65151,11 @@ PDR     : 9.88</description>
       
       
       
+      
+      
       <title>LVWR | D3+ | 2026-07-27</title>
+      
+      
       
       
       
@@ -64428,7 +65621,11 @@ PDR     : 9.88</description>
       
       
       
+      
+      
       <guid isPermaLink="false">LVWR_D3+_2026-07-27</guid>
+      
+      
       
       
       
@@ -64898,6 +66095,8 @@ PDR     : 2.02</description>
       
       
       
+      
+      
       <pubDate>Sun, 26 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -65015,6 +66214,8 @@ PDR     : 2.02</description>
       
       
       
+      
+    
     
     
     
@@ -65364,7 +66565,11 @@ PDR     : 2.02</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -65842,6 +67047,8 @@ PDR     : 2.02</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/STAK</link>
       
       
@@ -66081,7 +67288,11 @@ PDR     : 2.02</description>
       
       
       
+      
+      
       <guid isPermaLink="false">STAK_Big D2_2026-07-24</guid>
+      
+      
       
       
       
@@ -66563,6 +67774,8 @@ PDR     : 10.83</description>
       
       
       
+      
+      
       <pubDate>Thu, 23 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -66683,6 +67896,8 @@ PDR     : 10.83</description>
       
       
       
+      
+    
     
     
     
@@ -66803,6 +68018,8 @@ PDR     : 10.83</description>
     
     
     </item>
+    
+    
     
     
     
@@ -67280,7 +68497,11 @@ PDR     : 10.83</description>
       
       
       
+      
+      
       <title>STAK | Big D2+ | 2026-07-24</title>
+      
+      
       
       
       
@@ -67758,7 +68979,11 @@ PDR     : 10.83</description>
       
       
       
+      
+      
       <guid isPermaLink="false">STAK_Big D2+_2026-07-24</guid>
+      
+      
       
       
       
@@ -68240,6 +69465,8 @@ PDR     : 10.83</description>
       
       
       
+      
+      
       <pubDate>Thu, 23 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -68360,6 +69587,8 @@ PDR     : 10.83</description>
       
       
       
+      
+    
     
     
     
@@ -68480,6 +69709,8 @@ PDR     : 10.83</description>
     
     
     </item>
+    
+    
     
     
     
@@ -68957,7 +70188,11 @@ PDR     : 10.83</description>
       
       
       
+      
+      
       <title>WLDS | D3+ | 2026-07-24</title>
+      
+      
       
       
       
@@ -69435,7 +70670,11 @@ PDR     : 10.83</description>
       
       
       
+      
+      
       <guid isPermaLink="false">WLDS_D3+_2026-07-24</guid>
+      
+      
       
       
       
@@ -69917,6 +71156,8 @@ PDR     : 1.92</description>
       
       
       
+      
+      
       <pubDate>Thu, 23 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -70037,6 +71278,8 @@ PDR     : 1.92</description>
       
       
       
+      
+    
     
     
     
@@ -70395,7 +71638,11 @@ PDR     : 1.92</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -70885,6 +72132,8 @@ PDR     : 1.92</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/PAVS</link>
       
       
@@ -71130,7 +72379,11 @@ PDR     : 1.92</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PAVS_D2 EG_2026-07-23</guid>
+      
+      
       
       
       
@@ -71624,6 +72877,8 @@ PDR     : 5.64</description>
       
       
       
+      
+      
       <pubDate>Wed, 22 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -71747,6 +73002,8 @@ PDR     : 5.64</description>
       
       
       
+      
+    
     
     
     
@@ -72114,7 +73371,11 @@ PDR     : 5.64</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -72616,6 +73877,8 @@ PDR     : 5.64</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/INLF</link>
       
       
@@ -72867,7 +74130,11 @@ PDR     : 5.64</description>
       
       
       
+      
+      
       <guid isPermaLink="false">INLF_D2 EG_2026-07-22</guid>
+      
+      
       
       
       
@@ -73373,6 +74640,8 @@ PDR     : 1.89</description>
       
       
       
+      
+      
       <pubDate>Tue, 21 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -73499,6 +74768,8 @@ PDR     : 1.89</description>
       
       
       
+      
+    
     
     
     
@@ -73625,6 +74896,8 @@ PDR     : 1.89</description>
     
     
     </item>
+    
+    
     
     
     
@@ -74126,7 +75399,11 @@ PDR     : 1.89</description>
       
       
       
+      
+      
       <title>ADVB | D2 EG | 2026-07-22</title>
+      
+      
       
       
       
@@ -74628,7 +75905,11 @@ PDR     : 1.89</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ADVB_D2 EG_2026-07-22</guid>
+      
+      
       
       
       
@@ -75134,6 +76415,8 @@ PDR     : 10.65</description>
       
       
       
+      
+      
       <pubDate>Tue, 21 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -75260,6 +76543,8 @@ PDR     : 10.65</description>
       
       
       
+      
+    
     
     
     
@@ -75386,6 +76671,8 @@ PDR     : 10.65</description>
     
     
     </item>
+    
+    
     
     
     
@@ -75887,7 +77174,11 @@ PDR     : 10.65</description>
       
       
       
+      
+      
       <title>PN | D2 | 2026-07-22</title>
+      
+      
       
       
       
@@ -76389,7 +77680,11 @@ PDR     : 10.65</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PN_D2_2026-07-22</guid>
+      
+      
       
       
       
@@ -76895,6 +78190,8 @@ PDR     : 5.73</description>
       
       
       
+      
+      
       <pubDate>Tue, 21 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -77021,6 +78318,8 @@ PDR     : 5.73</description>
       
       
       
+      
+    
     
     
     
@@ -77397,7 +78696,11 @@ PDR     : 5.73</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -77911,6 +79214,8 @@ PDR     : 5.73</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/OMH</link>
       
       
@@ -78168,7 +79473,11 @@ PDR     : 5.73</description>
       
       
       
+      
+      
       <guid isPermaLink="false">OMH_Big D2_2026-07-21</guid>
+      
+      
       
       
       
@@ -78686,6 +79995,8 @@ PDR     : 0.97</description>
       
       
       
+      
+      
       <pubDate>Mon, 20 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -78815,6 +80126,8 @@ PDR     : 0.97</description>
       
       
       
+      
+    
     
     
     
@@ -78944,6 +80257,8 @@ PDR     : 0.97</description>
     
     
     </item>
+    
+    
     
     
     
@@ -79457,7 +80772,11 @@ PDR     : 0.97</description>
       
       
       
+      
+      
       <title>OMH | Big D2+ | 2026-07-21</title>
+      
+      
       
       
       
@@ -79971,7 +81290,11 @@ PDR     : 0.97</description>
       
       
       
+      
+      
       <guid isPermaLink="false">OMH_Big D2+_2026-07-21</guid>
+      
+      
       
       
       
@@ -80489,6 +81812,8 @@ PDR     : 0.97</description>
       
       
       
+      
+      
       <pubDate>Mon, 20 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -80618,6 +81943,8 @@ PDR     : 0.97</description>
       
       
       
+      
+    
     
     
     
@@ -80747,6 +82074,8 @@ PDR     : 0.97</description>
     
     
     </item>
+    
+    
     
     
     
@@ -81260,7 +82589,11 @@ PDR     : 0.97</description>
       
       
       
+      
+      
       <title>CPHI | Big D2+ | 2026-07-21</title>
+      
+      
       
       
       
@@ -81774,7 +83107,11 @@ PDR     : 0.97</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CPHI_Big D2+_2026-07-21</guid>
+      
+      
       
       
       
@@ -82292,6 +83629,8 @@ PDR     : 18.38</description>
       
       
       
+      
+      
       <pubDate>Mon, 20 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -82421,6 +83760,8 @@ PDR     : 18.38</description>
       
       
       
+      
+    
     
     
     
@@ -82806,7 +84147,11 @@ PDR     : 18.38</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -83332,6 +84677,8 @@ PDR     : 18.38</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ZYBT</link>
       
       
@@ -83595,7 +84942,11 @@ PDR     : 18.38</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ZYBT_Big D2_2026-07-20</guid>
+      
+      
       
       
       
@@ -84125,6 +85476,8 @@ PDR     : 6.82</description>
       
       
       
+      
+      
       <pubDate>Sun, 19 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -84257,6 +85610,8 @@ PDR     : 6.82</description>
       
       
       
+      
+    
     
     
     
@@ -84389,6 +85744,8 @@ PDR     : 6.82</description>
     
     
     </item>
+    
+    
     
     
     
@@ -84914,7 +86271,11 @@ PDR     : 6.82</description>
       
       
       
+      
+      
       <title>ZYBT | Big D2+ | 2026-07-20</title>
+      
+      
       
       
       
@@ -85440,7 +86801,11 @@ PDR     : 6.82</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ZYBT_Big D2+_2026-07-20</guid>
+      
+      
       
       
       
@@ -85970,6 +87335,8 @@ PDR     : 6.82</description>
       
       
       
+      
+      
       <pubDate>Sun, 19 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -86102,6 +87469,8 @@ PDR     : 6.82</description>
       
       
       
+      
+    
     
     
     
@@ -86496,7 +87865,11 @@ PDR     : 6.82</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -87034,6 +88407,8 @@ PDR     : 6.82</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/TGHL</link>
       
       
@@ -87303,7 +88678,11 @@ PDR     : 6.82</description>
       
       
       
+      
+      
       <guid isPermaLink="false">TGHL_D3+_2026-07-16</guid>
+      
+      
       
       
       
@@ -87845,6 +89224,8 @@ PDR     : 0.48</description>
       
       
       
+      
+      
       <pubDate>Wed, 15 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -87980,1928 +89361,7 @@ PDR     : 0.48</description>
       
       
       
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </item>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <item>
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <title>CPHI | D2 | 2026-07-15</title>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <link>https://finance.yahoo.com/quote/CPHI</link>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <guid isPermaLink="false">CPHI_D2_2026-07-15</guid>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <description>Ticker  : CPHI
-Date    : 2026-07-15
-Setup   : D2
-Min Gap : 1.41
-PDR     : 1.03</description>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <pubDate>Tue, 14 Jul 2026 22:00:00 -0000</pubDate>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    
-    
     
     
     
@@ -90308,7851 +89768,5 @@ PDR     : 1.03</description>
     
     
     
-    
-    
-    
-    
-    <item>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <title>CNEY | D3+ | 2026-07-15</title>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <link>https://finance.yahoo.com/quote/CNEY</link>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <guid isPermaLink="false">CNEY_D3+_2026-07-15</guid>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <description>Ticker  : CNEY
-Date    : 2026-07-15
-Setup   : D3+
-Min Gap : 1.14
-PDR     : 0.46</description>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <pubDate>Tue, 14 Jul 2026 22:00:00 -0000</pubDate>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </item>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <item>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <title>SOBR | D2 EG | 2026-07-15</title>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <link>https://finance.yahoo.com/quote/SOBR</link>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <guid isPermaLink="false">SOBR_D2 EG_2026-07-15</guid>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <description>Ticker  : SOBR
-Date    : 2026-07-15
-Setup   : D2 EG
-Min Gap : 3.15
-PDR     : 1.08</description>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <pubDate>Tue, 14 Jul 2026 22:00:00 -0000</pubDate>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </item>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <item>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <title>VEEE | D3+ | 2026-07-14</title>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <link>https://finance.yahoo.com/quote/VEEE</link>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <guid isPermaLink="false">VEEE_D3+_2026-07-14</guid>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <description>Ticker  : VEEE
-Date    : 2026-07-14
-Setup   : D3+
-Min Gap : 47.68
-PDR     : 30.56</description>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <pubDate>Mon, 13 Jul 2026 22:00:00 -0000</pubDate>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </item>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <item>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <title>VEEE | Big D2 | 2026-07-13</title>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <link>https://finance.yahoo.com/quote/VEEE</link>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <guid isPermaLink="false">VEEE_Big D2_2026-07-13</guid>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <description>Ticker  : VEEE
-Date    : 2026-07-13
-Setup   : Big D2
-Min Gap : 32.67
-PDR     : 26.01</description>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <pubDate>Sun, 12 Jul 2026 22:00:00 -0000</pubDate>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </item>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  
-  
   </channel>
 </rss>
