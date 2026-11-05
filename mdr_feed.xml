@@ -5,22 +5,7 @@
     <link>https://samsaam26.github.io/mdr-feed/mdr_feed.xml</link>
     <description>End-of-day MDR scan signals (G20/G30/G50/G100/GC30/PDR/CR)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 21:15:56 -0000</lastBuildDate>
-    <item>
-      <title>SOXS | MDR Signal | 2026-11-05</title>
-      <link>https://finance.yahoo.com/quote/SOXS</link>
-      <guid isPermaLink="false">SOXS_2026-11-05</guid>
-      <description>Ticker : SOXS
-Date   : 2026-11-05
-G20    : 84.25
-G30    : 85.76
-G50    : 88.79
-G100   : 96.35
-GC30   : 81.29
-PDR    : 15.13
-CR     : 0.99</description>
-      <pubDate>Wed, 04 Nov 2026 23:00:00 -0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 22:15:53 -0000</lastBuildDate>
     <item>
       <title>SNDQ | MDR Signal | 2026-11-05</title>
       <link>https://finance.yahoo.com/quote/SNDQ</link>
@@ -37,15 +22,38 @@ CR     : 0.78</description>
       <pubDate>Wed, 04 Nov 2026 23:00:00 -0000</pubDate>
     </item>
     <item>
+      <title>SOXS | MDR Signal | 2026-11-05</title>
+      <link>https://finance.yahoo.com/quote/SOXS</link>
+      <guid isPermaLink="false">SOXS_2026-11-05</guid>
+      <description>Ticker : SOXS
+Date   : 2026-11-05
+G20    : 84.25
+G30    : 85.76
+G50    : 88.79
+G100   : 96.35
+GC30   : 81.29
+PDR    : 15.13
+CR     : 0.99</description>
+      <pubDate>Wed, 04 Nov 2026 23:00:00 -0000</pubDate>
+    </item>
+    <item>
+      
+      
       
       
       <title>AIOK | MDR Signal | 2026-10-28</title>
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/AIOK</link>
       
       
+      
+      
       <guid isPermaLink="false">AIOK_2026-10-28</guid>
+      
+      
       
       
       <description>Ticker : AIOK
@@ -59,13 +67,21 @@ PDR    : 15.12
 CR     : 0.86</description>
       
       
+      
+      
       <pubDate>Tue, 27 Oct 2026 23:00:00 -0000</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -83,6 +99,8 @@ CR     : 0.86</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/XLAB</link>
       
       
@@ -92,7 +110,11 @@ CR     : 0.86</description>
       
       
       
+      
+      
       <guid isPermaLink="false">XLAB_2026-10-22</guid>
+      
+      
       
       
       
@@ -118,11 +140,15 @@ CR     : 0.92</description>
       
       
       
+      
+      
       <pubDate>Wed, 21 Oct 2026 22:00:00 -0000</pubDate>
       
       
       
       
+      
+    
     
     
     
@@ -136,7 +162,11 @@ CR     : 0.92</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -166,6 +196,8 @@ CR     : 0.92</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/FLYE</link>
       
       
@@ -181,7 +213,11 @@ CR     : 0.92</description>
       
       
       
+      
+      
       <guid isPermaLink="false">FLYE_2026-10-13</guid>
+      
+      
       
       
       
@@ -219,6 +255,8 @@ CR     : 0.34</description>
       
       
       
+      
+      
       <pubDate>Mon, 12 Oct 2026 22:00:00 -0000</pubDate>
       
       
@@ -227,6 +265,8 @@ CR     : 0.34</description>
       
       
       
+      
+    
     
     
     
@@ -249,7 +289,11 @@ CR     : 0.34</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -291,6 +335,8 @@ CR     : 0.34</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/WFF</link>
       
       
@@ -312,7 +358,11 @@ CR     : 0.34</description>
       
       
       
+      
+      
       <guid isPermaLink="false">WFF_2026-10-12</guid>
+      
+      
       
       
       
@@ -362,6 +412,8 @@ CR     : 0.08</description>
       
       
       
+      
+      
       <pubDate>Sun, 11 Oct 2026 22:00:00 -0000</pubDate>
       
       
@@ -373,6 +425,8 @@ CR     : 0.08</description>
       
       
       
+      
+    
     
     
     
@@ -404,7 +458,11 @@ CR     : 0.08</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -458,6 +516,8 @@ CR     : 0.08</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SDEV</link>
       
       
@@ -485,7 +545,11 @@ CR     : 0.08</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SDEV_2026-10-02</guid>
+      
+      
       
       
       
@@ -547,6 +611,8 @@ CR     : 0.94</description>
       
       
       
+      
+      
       <pubDate>Thu, 01 Oct 2026 22:00:00 -0000</pubDate>
       
       
@@ -561,6 +627,8 @@ CR     : 0.94</description>
       
       
       
+      
+    
     
     
     
@@ -601,7 +669,11 @@ CR     : 0.94</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -667,6 +739,8 @@ CR     : 0.94</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SDEV</link>
       
       
@@ -700,7 +774,11 @@ CR     : 0.94</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SDEV_2026-10-01</guid>
+      
+      
       
       
       
@@ -774,6 +852,8 @@ CR     : 0.07</description>
       
       
       
+      
+      
       <pubDate>Wed, 30 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -791,6 +871,8 @@ CR     : 0.07</description>
       
       
       
+      
+    
     
     
     
@@ -808,6 +890,8 @@ CR     : 0.07</description>
     
     
     </item>
+    
+    
     
     
     
@@ -873,7 +957,11 @@ CR     : 0.07</description>
       
       
       
+      
+      
       <title>KOD | MDR Signal | 2026-10-01</title>
+      
+      
       
       
       
@@ -939,7 +1027,11 @@ CR     : 0.07</description>
       
       
       
+      
+      
       <guid isPermaLink="false">KOD_2026-10-01</guid>
+      
+      
       
       
       
@@ -1013,6 +1105,8 @@ CR     : 0.36</description>
       
       
       
+      
+      
       <pubDate>Wed, 30 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -1030,6 +1124,8 @@ CR     : 0.36</description>
       
       
       
+      
+    
     
     
     
@@ -1079,7 +1175,11 @@ CR     : 0.36</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1157,6 +1257,8 @@ CR     : 0.36</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/KOD</link>
       
       
@@ -1196,7 +1298,11 @@ CR     : 0.36</description>
       
       
       
+      
+      
       <guid isPermaLink="false">KOD_2026-09-28</guid>
+      
+      
       
       
       
@@ -1282,6 +1388,8 @@ CR     : 0.83</description>
       
       
       
+      
+      
       <pubDate>Sun, 27 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -1302,6 +1410,8 @@ CR     : 0.83</description>
       
       
       
+      
+    
     
     
     
@@ -1360,7 +1470,11 @@ CR     : 0.83</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1450,6 +1564,8 @@ CR     : 0.83</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/GLND</link>
       
       
@@ -1495,7 +1611,11 @@ CR     : 0.83</description>
       
       
       
+      
+      
       <guid isPermaLink="false">GLND_2026-09-24</guid>
+      
+      
       
       
       
@@ -1593,6 +1713,8 @@ CR     : 0.89</description>
       
       
       
+      
+      
       <pubDate>Wed, 23 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -1616,6 +1738,8 @@ CR     : 0.89</description>
       
       
       
+      
+    
     
     
     
@@ -1683,7 +1807,11 @@ CR     : 0.89</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1785,6 +1913,8 @@ CR     : 0.89</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/GRML</link>
       
       
@@ -1836,7 +1966,11 @@ CR     : 0.89</description>
       
       
       
+      
+      
       <guid isPermaLink="false">GRML_2026-09-22</guid>
+      
+      
       
       
       
@@ -1946,6 +2080,8 @@ CR     : 0.10</description>
       
       
       
+      
+      
       <pubDate>Mon, 21 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -1972,6 +2108,8 @@ CR     : 0.10</description>
       
       
       
+      
+    
     
     
     
@@ -2048,7 +2186,11 @@ CR     : 0.10</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2162,6 +2304,8 @@ CR     : 0.10</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/FTFT</link>
       
       
@@ -2219,7 +2363,11 @@ CR     : 0.10</description>
       
       
       
+      
+      
       <guid isPermaLink="false">FTFT_2026-09-14</guid>
+      
+      
       
       
       
@@ -2341,6 +2489,8 @@ CR     : 0.77</description>
       
       
       
+      
+      
       <pubDate>Sun, 13 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -2370,6 +2520,8 @@ CR     : 0.77</description>
       
       
       
+      
+    
     
     
     
@@ -2455,7 +2607,11 @@ CR     : 0.77</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2581,6 +2737,8 @@ CR     : 0.77</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/XPON</link>
       
       
@@ -2644,7 +2802,11 @@ CR     : 0.77</description>
       
       
       
+      
+      
       <guid isPermaLink="false">XPON_2026-08-26</guid>
+      
+      
       
       
       
@@ -2778,6 +2940,8 @@ CR     : 0.52</description>
       
       
       
+      
+      
       <pubDate>Tue, 25 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -2810,6 +2974,8 @@ CR     : 0.52</description>
       
       
       
+      
+    
     
     
     
@@ -2904,7 +3070,11 @@ CR     : 0.52</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3042,6 +3212,8 @@ CR     : 0.52</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SDOT</link>
       
       
@@ -3111,7 +3283,11 @@ CR     : 0.52</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SDOT_2026-08-24</guid>
+      
+      
       
       
       
@@ -3257,6 +3433,8 @@ CR     : 0.17</description>
       
       
       
+      
+      
       <pubDate>Sun, 23 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -3292,6 +3470,8 @@ CR     : 0.17</description>
       
       
       
+      
+    
     
     
     
@@ -3327,6 +3507,8 @@ CR     : 0.17</description>
     
     
     </item>
+    
+    
     
     
     
@@ -3464,7 +3646,11 @@ CR     : 0.17</description>
       
       
       
+      
+      
       <title>BTCT | MDR Signal | 2026-08-24</title>
+      
+      
       
       
       
@@ -3602,7 +3788,11 @@ CR     : 0.17</description>
       
       
       
+      
+      
       <guid isPermaLink="false">BTCT_2026-08-24</guid>
+      
+      
       
       
       
@@ -3748,6 +3938,8 @@ CR     : 0.10</description>
       
       
       
+      
+      
       <pubDate>Sun, 23 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -3783,6 +3975,8 @@ CR     : 0.10</description>
       
       
       
+      
+    
     
     
     
@@ -3886,7 +4080,11 @@ CR     : 0.10</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4032,6 +4230,8 @@ CR     : 0.10</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ETHU</link>
       
       
@@ -4105,7 +4305,11 @@ CR     : 0.10</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ETHU_2026-08-21</guid>
+      
+      
       
       
       
@@ -4259,6 +4463,8 @@ CR     : 0.54</description>
       
       
       
+      
+      
       <pubDate>Thu, 20 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -4296,6 +4502,8 @@ CR     : 0.54</description>
       
       
       
+      
+    
     
     
     
@@ -4405,7 +4613,11 @@ CR     : 0.54</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4563,6 +4775,8 @@ CR     : 0.54</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MRNA</link>
       
       
@@ -4642,7 +4856,11 @@ CR     : 0.54</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MRNA_2026-08-19</guid>
+      
+      
       
       
       
@@ -4808,6 +5026,8 @@ CR     : 0.97</description>
       
       
       
+      
+      
       <pubDate>Tue, 18 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -4848,6 +5068,8 @@ CR     : 0.97</description>
       
       
       
+      
+    
     
     
     
@@ -4966,7 +5188,11 @@ CR     : 0.97</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -5136,6 +5362,8 @@ CR     : 0.97</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/IPST</link>
       
       
@@ -5221,7 +5449,11 @@ CR     : 0.97</description>
       
       
       
+      
+      
       <guid isPermaLink="false">IPST_2026-08-18</guid>
+      
+      
       
       
       
@@ -5399,6 +5631,8 @@ CR     : 0.47</description>
       
       
       
+      
+      
       <pubDate>Mon, 17 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -5442,6 +5676,8 @@ CR     : 0.47</description>
       
       
       
+      
+    
     
     
     
@@ -5569,7 +5805,11 @@ CR     : 0.47</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -5751,6 +5991,8 @@ CR     : 0.47</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/WDAY</link>
       
       
@@ -5842,7 +6084,11 @@ CR     : 0.47</description>
       
       
       
+      
+      
       <guid isPermaLink="false">WDAY_2026-08-13</guid>
+      
+      
       
       
       
@@ -6032,6 +6278,8 @@ CR     : 0.58</description>
       
       
       
+      
+      
       <pubDate>Wed, 12 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -6078,6 +6326,8 @@ CR     : 0.58</description>
       
       
       
+      
+    
     
     
     
@@ -6214,7 +6464,11 @@ CR     : 0.58</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -6408,6 +6662,8 @@ CR     : 0.58</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/AMIX</link>
       
       
@@ -6505,7 +6761,11 @@ CR     : 0.58</description>
       
       
       
+      
+      
       <guid isPermaLink="false">AMIX_2026-08-04</guid>
+      
+      
       
       
       
@@ -6707,6 +6967,8 @@ CR     : 0.74</description>
       
       
       
+      
+      
       <pubDate>Mon, 03 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -6756,6 +7018,8 @@ CR     : 0.74</description>
       
       
       
+      
+    
     
     
     
@@ -6901,7 +7165,11 @@ CR     : 0.74</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -7107,6 +7375,8 @@ CR     : 0.74</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/DFNS</link>
       
       
@@ -7210,7 +7480,11 @@ CR     : 0.74</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DFNS_2026-07-29</guid>
+      
+      
       
       
       
@@ -7424,6 +7698,8 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <pubDate>Tue, 28 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -7476,6 +7752,8 @@ CR     : 0.50</description>
       
       
       
+      
+    
     
     
     
@@ -7630,7 +7908,11 @@ CR     : 0.50</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -7848,6 +8130,8 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/DFNS</link>
       
       
@@ -7957,7 +8241,11 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <guid isPermaLink="false">DFNS_2026-07-28</guid>
+      
+      
       
       
       
@@ -8183,6 +8471,8 @@ CR     : 0.22</description>
       
       
       
+      
+      
       <pubDate>Mon, 27 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -8238,6 +8528,8 @@ CR     : 0.22</description>
       
       
       
+      
+    
     
     
     
@@ -8401,7 +8693,11 @@ CR     : 0.22</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -8631,6 +8927,8 @@ CR     : 0.22</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ADVB</link>
       
       
@@ -8746,7 +9044,11 @@ CR     : 0.22</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ADVB_2026-07-23</guid>
+      
+      
       
       
       
@@ -8984,6 +9286,8 @@ CR     : 0.29</description>
       
       
       
+      
+      
       <pubDate>Wed, 22 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -9042,6 +9346,8 @@ CR     : 0.29</description>
       
       
       
+      
+    
     
     
     
@@ -9214,7 +9520,11 @@ CR     : 0.29</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -9456,6 +9766,8 @@ CR     : 0.29</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ADVB</link>
       
       
@@ -9577,7 +9889,11 @@ CR     : 0.29</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ADVB_2026-07-22</guid>
+      
+      
       
       
       
@@ -9827,6 +10143,8 @@ CR     : 0.38</description>
       
       
       
+      
+      
       <pubDate>Tue, 21 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -9888,6 +10206,8 @@ CR     : 0.38</description>
       
       
       
+      
+    
     
     
     
@@ -10069,7 +10389,11 @@ CR     : 0.38</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -10323,6 +10647,8 @@ CR     : 0.38</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SOBR</link>
       
       
@@ -10450,7 +10776,11 @@ CR     : 0.38</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SOBR_2026-07-15</guid>
+      
+      
       
       
       
@@ -10712,6 +11042,8 @@ CR     : 0.42</description>
       
       
       
+      
+      
       <pubDate>Tue, 14 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -10776,6 +11108,8 @@ CR     : 0.42</description>
       
       
       
+      
+    
     
     
     
@@ -10966,7 +11300,11 @@ CR     : 0.42</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -11232,6 +11570,8 @@ CR     : 0.42</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/VEEE</link>
       
       
@@ -11365,7 +11705,11 @@ CR     : 0.42</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VEEE_2026-07-14</guid>
+      
+      
       
       
       
@@ -11639,6 +11983,8 @@ CR     : 0.66</description>
       
       
       
+      
+      
       <pubDate>Mon, 13 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -11706,6 +12052,8 @@ CR     : 0.66</description>
       
       
       
+      
+    
     
     
     
@@ -11905,7 +12253,11 @@ CR     : 0.66</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -12183,6 +12535,8 @@ CR     : 0.66</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/NVVE</link>
       
       
@@ -12322,7 +12676,11 @@ CR     : 0.66</description>
       
       
       
+      
+      
       <guid isPermaLink="false">NVVE_2026-07-10</guid>
+      
+      
       
       
       
@@ -12608,6 +12966,8 @@ CR     : 0.37</description>
       
       
       
+      
+      
       <pubDate>Thu, 09 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -12678,6 +13038,8 @@ CR     : 0.37</description>
       
       
       
+      
+    
     
     
     
@@ -12886,7 +13248,11 @@ CR     : 0.37</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -13176,6 +13542,8 @@ CR     : 0.37</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/TVRD</link>
       
       
@@ -13321,7 +13689,11 @@ CR     : 0.37</description>
       
       
       
+      
+      
       <guid isPermaLink="false">TVRD_2026-07-08</guid>
+      
+      
       
       
       
@@ -13619,6 +13991,8 @@ CR     : 0.72</description>
       
       
       
+      
+      
       <pubDate>Tue, 07 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -13692,6 +14066,8 @@ CR     : 0.72</description>
       
       
       
+      
+    
     
     
     
@@ -13909,7 +14285,11 @@ CR     : 0.72</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -14203,6 +14583,8 @@ CR     : 0.72</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/CLRO</link>
       
       
@@ -14350,7 +14732,11 @@ CR     : 0.72</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CLRO_2026-07-07</guid>
+      
+      
       
       
       
@@ -14652,6 +15038,8 @@ CR     : 0.62</description>
       
       
       
+      
+      
       <pubDate>Mon, 06 Jul 2026 20:00:00 -0000</pubDate>
       
       
@@ -14726,6 +15114,8 @@ CR     : 0.62</description>
       
       
       
+      
+    
     
     
     
@@ -14946,7 +15336,11 @@ CR     : 0.62</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -15244,6 +15638,8 @@ CR     : 0.62</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/FCEL</link>
       
       
@@ -15393,7 +15789,11 @@ CR     : 0.62</description>
       
       
       
+      
+      
       <guid isPermaLink="false">FCEL_2026-06-30</guid>
+      
+      
       
       
       
@@ -15699,6 +16099,8 @@ CR     : 0.80</description>
       
       
       
+      
+      
       <pubDate>Mon, 29 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -15774,6 +16176,8 @@ CR     : 0.80</description>
       
       
       
+      
+    
     
     
     
@@ -15997,7 +16401,11 @@ CR     : 0.80</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -16307,6 +16715,8 @@ CR     : 0.80</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ABBV</link>
       
       
@@ -16462,7 +16872,11 @@ CR     : 0.80</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ABBV_2026-06-29</guid>
+      
+      
       
       
       
@@ -16780,6 +17194,8 @@ CR     : 0.43</description>
       
       
       
+      
+      
       <pubDate>Sun, 28 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -16858,6 +17274,8 @@ CR     : 0.43</description>
       
       
       
+      
+    
     
     
     
@@ -16936,6 +17354,8 @@ CR     : 0.43</description>
     
     
     </item>
+    
+    
     
     
     
@@ -17245,7 +17665,11 @@ CR     : 0.43</description>
       
       
       
+      
+      
       <title>SLS | MDR Signal | 2026-06-29</title>
+      
+      
       
       
       
@@ -17555,7 +17979,11 @@ CR     : 0.43</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SLS_2026-06-29</guid>
+      
+      
       
       
       
@@ -17873,6 +18301,8 @@ CR     : 0.91</description>
       
       
       
+      
+      
       <pubDate>Sun, 28 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -17951,6 +18381,8 @@ CR     : 0.91</description>
       
       
       
+      
+    
     
     
     
@@ -18183,7 +18615,11 @@ CR     : 0.91</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -18505,6 +18941,8 @@ CR     : 0.91</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ABBV</link>
       
       
@@ -18666,7 +19104,11 @@ CR     : 0.91</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ABBV_2026-06-26</guid>
+      
+      
       
       
       
@@ -18996,6 +19438,8 @@ CR     : 1.00</description>
       
       
       
+      
+      
       <pubDate>Thu, 25 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -19077,6 +19521,8 @@ CR     : 1.00</description>
       
       
       
+      
+    
     
     
     
@@ -19318,7 +19764,11 @@ CR     : 1.00</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -19652,6 +20102,8 @@ CR     : 1.00</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/RGNT</link>
       
       
@@ -19819,7 +20271,11 @@ CR     : 1.00</description>
       
       
       
+      
+      
       <guid isPermaLink="false">RGNT_2026-06-15</guid>
+      
+      
       
       
       
@@ -20161,6 +20617,8 @@ CR     : 0.56</description>
       
       
       
+      
+      
       <pubDate>Sun, 14 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -20245,6 +20703,8 @@ CR     : 0.56</description>
       
       
       
+      
+    
     
     
     
@@ -20329,6 +20789,8 @@ CR     : 0.56</description>
     
     
     </item>
+    
+    
     
     
     
@@ -20662,7 +21124,11 @@ CR     : 0.56</description>
       
       
       
+      
+      
       <title>SPCX | MDR Signal | 2026-06-15</title>
+      
+      
       
       
       
@@ -20996,7 +21462,11 @@ CR     : 0.56</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SPCX_2026-06-15</guid>
+      
+      
       
       
       
@@ -21338,6 +21808,8 @@ CR     : 0.98</description>
       
       
       
+      
+      
       <pubDate>Sun, 14 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -21422,6 +21894,8 @@ CR     : 0.98</description>
       
       
       
+      
+    
     
     
     
@@ -21672,7 +22146,11 @@ CR     : 0.98</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -22018,6 +22496,8 @@ CR     : 0.98</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/AMPG</link>
       
       
@@ -22191,7 +22671,11 @@ CR     : 0.98</description>
       
       
       
+      
+      
       <guid isPermaLink="false">AMPG_2026-06-11</guid>
+      
+      
       
       
       
@@ -22545,6 +23029,8 @@ CR     : 0.55</description>
       
       
       
+      
+      
       <pubDate>Wed, 10 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -22632,6 +23118,8 @@ CR     : 0.55</description>
       
       
       
+      
+    
     
     
     
@@ -22891,7 +23379,11 @@ CR     : 0.55</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -23249,6 +23741,8 @@ CR     : 0.55</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ANY</link>
       
       
@@ -23428,7 +23922,11 @@ CR     : 0.55</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ANY_2026-06-03</guid>
+      
+      
       
       
       
@@ -23794,6 +24292,8 @@ CR     : 0.77</description>
       
       
       
+      
+      
       <pubDate>Tue, 02 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -23884,6 +24384,8 @@ CR     : 0.77</description>
       
       
       
+      
+    
     
     
     
@@ -23974,6 +24476,8 @@ CR     : 0.77</description>
     
     
     </item>
+    
+    
     
     
     
@@ -24331,7 +24835,11 @@ CR     : 0.77</description>
       
       
       
+      
+      
       <title>VSH | MDR Signal | 2026-06-03</title>
+      
+      
       
       
       
@@ -24689,7 +25197,11 @@ CR     : 0.77</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VSH_2026-06-03</guid>
+      
+      
       
       
       
@@ -25055,6 +25567,8 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <pubDate>Tue, 02 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -25145,6 +25659,8 @@ CR     : 0.50</description>
       
       
       
+      
+    
     
     
     
@@ -25413,7 +25929,11 @@ CR     : 0.50</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -25783,6 +26303,8 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MRVL</link>
       
       
@@ -25968,7 +26490,11 @@ CR     : 0.50</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MRVL_2026-06-02</guid>
+      
+      
       
       
       
@@ -26346,6 +26872,8 @@ CR     : 0.99</description>
       
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -26439,6 +26967,8 @@ CR     : 0.99</description>
       
       
       
+      
+    
     
     
     
@@ -26532,6 +27062,8 @@ CR     : 0.99</description>
     
     
     </item>
+    
+    
     
     
     
@@ -26901,7 +27433,11 @@ CR     : 0.99</description>
       
       
       
+      
+      
       <title>VSH | MDR Signal | 2026-06-02</title>
+      
+      
       
       
       
@@ -27271,7 +27807,11 @@ CR     : 0.99</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VSH_2026-06-02</guid>
+      
+      
       
       
       
@@ -27649,6 +28189,8 @@ CR     : 0.70</description>
       
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -27742,6 +28284,8 @@ CR     : 0.70</description>
       
       
       
+      
+    
     
     
     
@@ -27927,6 +28471,8 @@ CR     : 0.70</description>
     
     
     
+    
+  
   
   
   
