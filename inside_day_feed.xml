@@ -5,19 +5,46 @@
     <link>https://samsaam26.github.io/mdr-feed/inside_day_feed.xml</link>
     <description>End-of-day Inside Day scan signals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:15:41 -0000</lastBuildDate>
     <item>
+      <title>OMH | High Vol | 2026-11-05</title>
+      <link>https://finance.yahoo.com/quote/OMH</link>
+      <guid isPermaLink="false">OMH_2026-11-05</guid>
+      <description>Ticker  : OMH
+Date    : 2026-11-05
+Setup   : High Vol
+Min Gap : 10.68
+Max Gap : 18.23</description>
+      <pubDate>Wed, 04 Nov 2026 23:00:00 -0000</pubDate>
+    </item>
+    <item>
+      
+      
       <title>AIOK | Low Vol | 2026-10-26</title>
+      
+      
       <link>https://finance.yahoo.com/quote/AIOK</link>
+      
+      
       <guid isPermaLink="false">AIOK_2026-10-26</guid>
+      
+      
       <description>Ticker  : AIOK
 Date    : 2026-10-26
 Setup   : Low Vol
 Min Gap : 9.16
 Max Gap : 15.59</description>
+      
+      
       <pubDate>Sun, 25 Oct 2026 23:00:00 -0000</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       
       
       
@@ -31,6 +58,8 @@ Max Gap : 15.59</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SDEV</link>
       
       
@@ -38,7 +67,11 @@ Max Gap : 15.59</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SDEV_2026-09-30</guid>
+      
+      
       
       
       
@@ -56,10 +89,14 @@ Max Gap : 3.93</description>
       
       
       
+      
+      
       <pubDate>Tue, 29 Sep 2026 22:00:00 -0000</pubDate>
       
       
       
+      
+    
     
     
     
@@ -70,7 +107,11 @@ Max Gap : 3.93</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -96,6 +137,8 @@ Max Gap : 3.93</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MEDS</link>
       
       
@@ -109,7 +152,11 @@ Max Gap : 3.93</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MEDS_2026-09-17</guid>
+      
+      
       
       
       
@@ -139,6 +186,8 @@ Max Gap : 12.31</description>
       
       
       
+      
+      
       <pubDate>Wed, 16 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -146,6 +195,8 @@ Max Gap : 12.31</description>
       
       
       
+      
+    
     
     
     
@@ -165,7 +216,11 @@ Max Gap : 12.31</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -203,6 +258,8 @@ Max Gap : 12.31</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/VEEA</link>
       
       
@@ -222,7 +279,11 @@ Max Gap : 12.31</description>
       
       
       
+      
+      
       <guid isPermaLink="false">VEEA_2026-09-16</guid>
+      
+      
       
       
       
@@ -264,6 +325,8 @@ Max Gap : 7.49</description>
       
       
       
+      
+      
       <pubDate>Tue, 15 Sep 2026 22:00:00 -0000</pubDate>
       
       
@@ -274,6 +337,8 @@ Max Gap : 7.49</description>
       
       
       
+      
+    
     
     
     
@@ -302,7 +367,11 @@ Max Gap : 7.49</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -352,6 +421,8 @@ Max Gap : 7.49</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/CELU</link>
       
       
@@ -377,7 +448,11 @@ Max Gap : 7.49</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CELU_2026-08-28</guid>
+      
+      
       
       
       
@@ -431,6 +506,8 @@ Max Gap : 2.55</description>
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -444,6 +521,8 @@ Max Gap : 2.55</description>
       
       
       
+      
+    
     
     
     
@@ -481,7 +560,11 @@ Max Gap : 2.55</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -543,6 +626,8 @@ Max Gap : 2.55</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/USDE</link>
       
       
@@ -574,7 +659,11 @@ Max Gap : 2.55</description>
       
       
       
+      
+      
       <guid isPermaLink="false">USDE_2026-08-24</guid>
+      
+      
       
       
       
@@ -640,6 +729,8 @@ Max Gap : 8.79</description>
       
       
       
+      
+      
       <pubDate>Sun, 23 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -656,6 +747,8 @@ Max Gap : 8.79</description>
       
       
       
+      
+    
     
     
     
@@ -702,7 +795,11 @@ Max Gap : 8.79</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -776,6 +873,8 @@ Max Gap : 8.79</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/MRNA</link>
       
       
@@ -813,7 +912,11 @@ Max Gap : 8.79</description>
       
       
       
+      
+      
       <guid isPermaLink="false">MRNA_2026-08-20</guid>
+      
+      
       
       
       
@@ -891,6 +994,8 @@ Max Gap : 176.66</description>
       
       
       
+      
+      
       <pubDate>Wed, 19 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -910,6 +1015,8 @@ Max Gap : 176.66</description>
       
       
       
+      
+    
     
     
     
@@ -965,7 +1072,11 @@ Max Gap : 176.66</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1051,6 +1162,8 @@ Max Gap : 176.66</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/PFSA</link>
       
       
@@ -1094,7 +1207,11 @@ Max Gap : 176.66</description>
       
       
       
+      
+      
       <guid isPermaLink="false">PFSA_2026-08-19</guid>
+      
+      
       
       
       
@@ -1184,6 +1301,8 @@ Max Gap : 28.32</description>
       
       
       
+      
+      
       <pubDate>Tue, 18 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -1206,6 +1325,8 @@ Max Gap : 28.32</description>
       
       
       
+      
+    
     
     
     
@@ -1270,7 +1391,11 @@ Max Gap : 28.32</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1368,6 +1493,8 @@ Max Gap : 28.32</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/FGI</link>
       
       
@@ -1417,7 +1544,11 @@ Max Gap : 28.32</description>
       
       
       
+      
+      
       <guid isPermaLink="false">FGI_2026-08-14</guid>
+      
+      
       
       
       
@@ -1519,6 +1650,8 @@ Max Gap : 19.93</description>
       
       
       
+      
+      
       <pubDate>Thu, 13 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -1544,6 +1677,8 @@ Max Gap : 19.93</description>
       
       
       
+      
+    
     
     
     
@@ -1617,7 +1752,11 @@ Max Gap : 19.93</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1727,6 +1866,8 @@ Max Gap : 19.93</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/RITR</link>
       
       
@@ -1782,7 +1923,11 @@ Max Gap : 19.93</description>
       
       
       
+      
+      
       <guid isPermaLink="false">RITR_2026-08-04</guid>
+      
+      
       
       
       
@@ -1896,6 +2041,8 @@ Max Gap : 0.40</description>
       
       
       
+      
+      
       <pubDate>Mon, 03 Aug 2026 22:00:00 -0000</pubDate>
       
       
@@ -1924,6 +2071,8 @@ Max Gap : 0.40</description>
       
       
       
+      
+    
     
     
     
@@ -2006,7 +2155,11 @@ Max Gap : 0.40</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2128,6 +2281,8 @@ Max Gap : 0.40</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/CYCU</link>
       
       
@@ -2189,7 +2344,11 @@ Max Gap : 0.40</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CYCU_2026-07-31</guid>
+      
+      
       
       
       
@@ -2315,6 +2474,8 @@ Max Gap : 1.84</description>
       
       
       
+      
+      
       <pubDate>Thu, 30 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -2346,6 +2507,8 @@ Max Gap : 1.84</description>
       
       
       
+      
+    
     
     
     
@@ -2377,6 +2540,8 @@ Max Gap : 1.84</description>
     
     
     </item>
+    
+    
     
     
     
@@ -2498,7 +2663,11 @@ Max Gap : 1.84</description>
       
       
       
+      
+      
       <title>INHD | High Vol | 2026-07-31</title>
+      
+      
       
       
       
@@ -2620,7 +2789,11 @@ Max Gap : 1.84</description>
       
       
       
+      
+      
       <guid isPermaLink="false">INHD_2026-07-31</guid>
+      
+      
       
       
       
@@ -2746,6 +2919,8 @@ Max Gap : 43.37</description>
       
       
       
+      
+      
       <pubDate>Thu, 30 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -2777,6 +2952,8 @@ Max Gap : 43.37</description>
       
       
       
+      
+    
     
     
     
@@ -2868,7 +3045,11 @@ Max Gap : 43.37</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3002,6 +3183,8 @@ Max Gap : 43.37</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/AGEN</link>
       
       
@@ -3069,7 +3252,11 @@ Max Gap : 43.37</description>
       
       
       
+      
+      
       <guid isPermaLink="false">AGEN_2026-07-14</guid>
+      
+      
       
       
       
@@ -3207,6 +3394,8 @@ Max Gap : 8.70</description>
       
       
       
+      
+      
       <pubDate>Mon, 13 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -3241,6 +3430,8 @@ Max Gap : 8.70</description>
       
       
       
+      
+    
     
     
     
@@ -3341,7 +3532,11 @@ Max Gap : 8.70</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3487,6 +3682,8 @@ Max Gap : 8.70</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/CLRO</link>
       
       
@@ -3560,7 +3757,11 @@ Max Gap : 8.70</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CLRO_2026-07-06</guid>
+      
+      
       
       
       
@@ -3710,6 +3911,8 @@ Max Gap : 9.62</description>
       
       
       
+      
+      
       <pubDate>Sun, 05 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -3747,6 +3950,8 @@ Max Gap : 9.62</description>
       
       
       
+      
+    
     
     
     
@@ -3856,7 +4061,11 @@ Max Gap : 9.62</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4014,6 +4223,8 @@ Max Gap : 9.62</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/LHAI</link>
       
       
@@ -4093,7 +4304,11 @@ Max Gap : 9.62</description>
       
       
       
+      
+      
       <guid isPermaLink="false">LHAI_2026-07-02</guid>
+      
+      
       
       
       
@@ -4255,6 +4470,8 @@ Max Gap : 2.84</description>
       
       
       
+      
+      
       <pubDate>Wed, 01 Jul 2026 22:00:00 -0000</pubDate>
       
       
@@ -4295,6 +4512,8 @@ Max Gap : 2.84</description>
       
       
       
+      
+    
     
     
     
@@ -4413,7 +4632,11 @@ Max Gap : 2.84</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4583,6 +4806,8 @@ Max Gap : 2.84</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ICCM</link>
       
       
@@ -4668,7 +4893,11 @@ Max Gap : 2.84</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ICCM_2026-06-18</guid>
+      
+      
       
       
       
@@ -4842,6 +5071,8 @@ Max Gap : 9.54</description>
       
       
       
+      
+      
       <pubDate>Wed, 17 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -4885,6 +5116,8 @@ Max Gap : 9.54</description>
       
       
       
+      
+    
     
     
     
@@ -5012,7 +5245,11 @@ Max Gap : 9.54</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -5194,6 +5431,8 @@ Max Gap : 9.54</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/CRVO</link>
       
       
@@ -5285,7 +5524,11 @@ Max Gap : 9.54</description>
       
       
       
+      
+      
       <guid isPermaLink="false">CRVO_2026-06-17</guid>
+      
+      
       
       
       
@@ -5471,6 +5714,8 @@ Max Gap : 7.45</description>
       
       
       
+      
+      
       <pubDate>Tue, 16 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -5517,6 +5762,8 @@ Max Gap : 7.45</description>
       
       
       
+      
+    
     
     
     
@@ -5653,7 +5900,11 @@ Max Gap : 7.45</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -5847,6 +6098,8 @@ Max Gap : 7.45</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/SUNE</link>
       
       
@@ -5944,7 +6197,11 @@ Max Gap : 7.45</description>
       
       
       
+      
+      
       <guid isPermaLink="false">SUNE_2026-06-09</guid>
+      
+      
       
       
       
@@ -6142,6 +6399,8 @@ Max Gap : 9.45</description>
       
       
       
+      
+      
       <pubDate>Mon, 08 Jun 2026 22:00:00 -0000</pubDate>
       
       
@@ -6191,6 +6450,8 @@ Max Gap : 9.45</description>
       
       
       
+      
+    
     
     
     
@@ -6336,7 +6597,11 @@ Max Gap : 9.45</description>
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -6542,6 +6807,8 @@ Max Gap : 9.45</description>
       
       
       
+      
+      
       <link>https://finance.yahoo.com/quote/ANY</link>
       
       
@@ -6645,7 +6912,11 @@ Max Gap : 9.45</description>
       
       
       
+      
+      
       <guid isPermaLink="false">ANY_2026-06-02</guid>
+      
+      
       
       
       
@@ -6855,6 +7126,8 @@ Max Gap : 4.83</description>
       
       
       
+      
+      
       <pubDate>Mon, 01 Jun 2026 20:00:00 -0000</pubDate>
       
       
@@ -6907,6 +7180,8 @@ Max Gap : 4.83</description>
       
       
       
+      
+    
     
     
     
@@ -6959,6 +7234,8 @@ Max Gap : 4.83</description>
     
     
     </item>
+    
+    
     
     
     
@@ -7164,7 +7441,11 @@ Max Gap : 4.83</description>
       
       
       
+      
+      
       <title>XOS | Low Vol | 2026-06-04</title>
+      
+      
       
       
       
@@ -7370,7 +7651,11 @@ Max Gap : 4.83</description>
       
       
       
+      
+      
       <guid isPermaLink="false">XOS_2026-06-04</guid>
+      
+      
       
       
       
@@ -7580,6 +7865,8 @@ Max Gap : 8.27</description>
       
       
       
+      
+      
       <pubDate>Wed, 03 Jun 2026 20:00:00 -0000</pubDate>
       
       
@@ -7632,6 +7919,8 @@ Max Gap : 8.27</description>
       
       
       
+      
+    
     
     
     
@@ -7735,6 +8024,8 @@ Max Gap : 8.27</description>
     
     
     
+    
+  
   
   
   
